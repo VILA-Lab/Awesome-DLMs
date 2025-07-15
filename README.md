@@ -23,9 +23,10 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://ml-gsai.github.io/LLaDA-demo/)
 [![Star](https://img.shields.io/github/stars/ML-GSAI/LLaDA.svg?style=social&label=Star)](https://github.com/ML-GSAI/LLaDA)
 
-Diffusion-LM
-Diffusion-Bert
-Fast-dllm
+[Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/abs/2505.23481)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.23481)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://nvlabs.github.io/Fast-dLLM/)
+[![Star](https://img.shields.io/github/stars/NVlabs/Fast-dLLM.svg?style=social&label=Star)](https://github.com/NVlabs/Fast-dLLM)
 
 
 
@@ -34,7 +35,7 @@ Fast-dllm
 [16 Jun 2025] [Discrete Diffusion in Large Language and Multimodal Models: A Survey](https://arxiv.org/abs/2506.13759)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.13759) [![Star](https://img.shields.io/github/stars/LiQiiiii/DLLM-Survey.svg?style=social&label=Star)](https://github.com/LiQiiiii/DLLM-Survey)
 
-[28 Feb 2025] [Diffusion models in text generation: a survey](https://peerj.com/articles/cs-1905/) (PeerJ Computer Science)  
+[23 Feb 2024] [Diffusion models in text generation: a survey](https://peerj.com/articles/cs-1905/) (PeerJ Computer Science)  
 
 [5 Jun 2023] [An Overview of Diffusion Models for Text Generation](https://ieeexplore.ieee.org/document/10159911) (MIPRO)  
 
@@ -48,6 +49,25 @@ Fast-dllm
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2303.06574) [![Star](https://img.shields.io/github/stars/RUCAIBox/Awesome-Text-Diffusion-Models.svg?style=social&label=Star)](https://github.com/RUCAIBox/Awesome-Text-Diffusion-Models)
 
 ## Diffusion Foundation
+[7 Sep 2022] [Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow](https://arxiv.org/abs/2209.03003)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.03003) [![Star](https://img.shields.io/github/stars/gnobitab/RectifiedFlow.svg?style=social&label=Star)](https://github.com/gnobitab/RectifiedFlow)
+
+[26 Nov 2020] [Score-Based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2011.13456) [![Star](https://img.shields.io/github/stars/yang-song/score_sde.svg?style=social&label=Star)](https://github.com/yang-song/score_sde)
+
+
+[12 Mar 2023] [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2010.02502) [![Star](https://img.shields.io/github/stars/ermongroup/ddim.svg?style=social&label=Star)](https://github.com/ermongroup/ddim)
+
+[19 Jun 2020] [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2006.11239) [![Website](https://img.shields.io/badge/Website-9cf)](https://hojonathanho.github.io/diffusion/) [![Star](https://img.shields.io/github/stars/hojonathanho/diffusion.svg?style=social&label=Star)](https://github.com/hojonathanho/diffusion)
+
+[12 Jul 2019] [Generative Modeling by Estimating Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1907.05600) [![Star](https://img.shields.io/github/stars/ermongroup/ncsn.svg?style=social&label=Star)](https://github.com/ermongroup/ncsn)
+
+[12 Mar 2015] [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/1503.03585)
+
 
 ## Discrete DLMs
 [10 Jul 2025] [Bayesian Discrete Diffusion Beats Autoregressive Perplexity](https://arxiv.org/abs/2507.07586v1)  
@@ -66,6 +86,9 @@ Fast-dllm
 [![Website](https://img.shields.io/badge/Website-9cf)](https://ml-gsai.github.io/LLaDA-demo/)
 [![Star](https://img.shields.io/github/stars/ML-GSAI/LLaDA.svg?style=social&label=Star)](https://github.com/ML-GSAI/LLaDA) 
 
+[7 Jul 2021] [Structured Denoising Diffusion Models in Discrete State-Spaces](https://arxiv.org/abs/2107.03006)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.03006)  
+
 
 
 
@@ -82,7 +105,7 @@ Fast-dllm
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.20147) [![Website](https://img.shields.io/badge/Website-9cf)](https://fudoki-hku.github.io/)
 
 [22 May 2025] [LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/abs/2505.16839)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.16839) [![Website](https://img.shields.io/badge/Website-9cf)](https://jacklishufan.github.io/LaViDa/) [![Star](https://img.shields.io/github/stars/jacklishufan/LaViDa.svg?style=social&label=Star)](https://github.com/jacklishufan/LaViDa) 
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.16839) [![Website](https://img.shields.io/badge/Website-9cf)](https://homepage.jackli.org/projects/lavida/) [![Star](https://img.shields.io/github/stars/jacklishufan/LaViDa.svg?style=social&label=Star)](https://github.com/jacklishufan/LaViDa) 
 
 
 [22 May 2025] [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/abs/2505.16990)  
@@ -170,3 +193,9 @@ Fast-dllm
 
 [AoiDragon/Awesome-Text-Diffusion-Models](https://github.com/AoiDragon/Awesome-Text-Diffusion-Models) [![Star](https://img.shields.io/github/stars/AoiDragon/Awesome-Text-Diffusion-Models?style=social)](https://github.com/AoiDragon/Awesome-Text-Diffusion-Models)
 
+[kuleshov-group/awesome-discrete-diffusion-models](https://github.com/kuleshov-group/awesome-discrete-diffusion-models) [![Star](https://img.shields.io/github/stars/kuleshov-group/awesome-discrete-diffusion-models?style=social)](https://github.com/kuleshov-group/awesome-discrete-diffusion-models)
+
+[Gemini Diffusion](https://deepmind.google/models/gemini-diffusion/)
+
+[Mecury](https://www.inceptionlabs.ai/introducing-mercury) 
+[![Arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.17298)
