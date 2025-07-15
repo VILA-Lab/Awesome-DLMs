@@ -1,6 +1,7 @@
 # Awesome Diffusion Language Models [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Table of Contents
+- [Playground](#playground)
 - [Must-Read](#must-read)
 - [Surveys](#surveys)
 - [Diffusion Foundation](#diffusion-foundation)
@@ -12,6 +13,16 @@
 - [Applications](#applications)
 - [Resources](#resources)
 
+
+## Playground
+[Mecury](https://chat.inceptionlabs.ai/) [![Static Badge](https://img.shields.io/badge/📰-Demo-green)](https://chat.inceptionlabs.ai/)
+
+[LLaDA](https://huggingface.co/spaces/multimodalart/LLaDA) [![deploy](https://img.shields.io/badge/Hugging%20Face-Demo-yellow)](https://huggingface.co/spaces/multimodalart/LLaDA)
+
+
+[MMaDA](https://huggingface.co/spaces/Gen-Verse/MMaDA) [![deploy](https://img.shields.io/badge/Hugging%20Face-Demo-yellow)](https://huggingface.co/spaces/Gen-Verse/MMaDA)
+
+[Dream](https://huggingface.co/spaces/multimodalart/Dream) [![deploy](https://img.shields.io/badge/Hugging%20Face-Demo-yellow)](https://huggingface.co/spaces/multimodalart/Dream)
 
 
 ## Must-Read
