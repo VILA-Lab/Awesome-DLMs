@@ -304,8 +304,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 
-[31 Oct 2023] [LADIDA: Latent Diffusion for Document Generation with Sequential Decoding](https://arxiv.org/abs/2310.20608) (NeurIPS Workshop 2023)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.20608)
+[31 Oct 2023] [LADIDA: Latent Diffusion for Document Generation with Sequential Decoding]([https://arxiv.org/abs/2310.20608](https://neurips.cc/virtual/2023/74876)) (NeurIPS Workshop 2023)  
 
 [09 Oct 2023] [DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models](https://arxiv.org/abs/2310.05793) (EMNLP 2023)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05793)
@@ -570,8 +569,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [10 Sep 2024] [Table-to-Text Generation with Pretrained Diffusion Models](https://arxiv.org/abs/2409.13739) (IEEE 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.13739)
 
-[31 Oct 2023] [LADIDA: Latent Diffusion for Document Generation with Sequential Decoding](https://arxiv.org/abs/2310.20608) (NeurIPS Workshop 2023)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.20608)
+[31 Oct 2023] [LADIDA: Latent Diffusion for Document Generation with Sequential Decoding]([https://arxiv.org/abs/2310.20608](https://neurips.cc/virtual/2023/74876)) (NeurIPS Workshop 2023)  
 
 [24 Oct 2023] [ScanDL: A Diffusion Model for Generating Synthetic Scanpaths on Texts](https://arxiv.org/abs/2310.15587)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.15587) [![Star](https://img.shields.io/github/stars/dili-lab/scandl.svg?style=social&label=Star)](https://github.com/dili-lab/scandl)
