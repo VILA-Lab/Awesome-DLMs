@@ -187,21 +187,20 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [28 Oct 2024] [Energy-Based Diffusion Language Models for Text Generation](https://arxiv.org/abs/2410.21357)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.21357)
 
-
 [18 Oct 2024] [Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning](https://arxiv.org/abs/2410.14157)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.14157) [![Star](https://img.shields.io/github/stars/HKUNLP/diffusion-vs-ar.svg?style=social&label=Star)](https://github.com/HKUNLP/diffusion-vs-ar)
 
-
 [17 Oct 2024] [Meta-DiffuB: A Contextualized Sequence-to-Sequence Text Diffusion Model with Meta-Exploration](https://arxiv.org/abs/2410.13201)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13201) [![Star](https://img.shields.io/github/stars/meta-diffub/meta-diffub.svg?style=social&label=Star)](https://github.com/meta-diffub/meta-diffub)
+
+[8 Oct 2024] (DDPD) [Think While You Generate: Discrete Diffusion with Planned Denoising](https://arxiv.org/abs/2410.06264)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.06264) [![Star](https://img.shields.io/github/stars/liusulin/DDPD.svg?style=social&label=Star)](https://github.com/liusulin/DDPD)
 
 [4 Sep 2024] [Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling](https://arxiv.org/abs/2409.02908) (ICLR 2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.02908)
 
 [22 Jul 2024] [Discrete Flow Matching](https://arxiv.org/abs/2407.15595) (NeurIPS 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.15595)
-
-
 
 [10 Jul 2024][Promises, Outlooks and Challenges of Diffusion Language Modeling](https://arxiv.org/abs/2406.11473)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11473)
@@ -233,8 +232,6 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [15 Oct 2023] [FiLM: Fill-in Language Models for Any-Order Generation](https://arxiv.org/abs/2310.09930)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.09930) [![Star](https://img.shields.io/github/stars/shentianxiao/FiLM.svg?style=social&label=Star)](https://github.com/shentianxiao/FiLM)
 
-[8 Oct 2024] (DDPD) [Think While You Generate: Discrete Diffusion with Planned Denoising](https://arxiv.org/abs/2410.06264)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.06264) [![Star](https://img.shields.io/github/stars/liusulin/DDPD.svg?style=social&label=Star)](https://github.com/liusulin/DDPD)
 
 [23 Aug 2023] [Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning](https://arxiv.org/abs/2308.12219)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.12219) [![Star](https://img.shields.io/github/stars/yegcjs/diffusionllm.svg?style=social&label=Star)](https://github.com/yegcjs/diffusionllm)
