@@ -227,8 +227,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [25 Oct 2023] (SEDD) [Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution](https://arxiv.org/abs/2310.16834) (ICML 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.16834)
 
-[18 Oct 2023] [InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation](https://arxiv.org/abs/2310.11976)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11976) [![Star](https://img.shields.io/github/stars/rzhwang/infodiffusion.svg?style=social&label=Star)](https://github.com/rzhwang/infodiffusion)
+
 
 [15 Oct 2023] [FiLM: Fill-in Language Models for Any-Order Generation](https://arxiv.org/abs/2310.09930)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.09930) [![Star](https://img.shields.io/github/stars/shentianxiao/FiLM.svg?style=social&label=Star)](https://github.com/shentianxiao/FiLM)
@@ -305,6 +304,9 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 [31 Oct 2023] [LADIDA: Latent Diffusion for Document Generation with Sequential Decoding](https://neurips.cc/virtual/2023/74876) (NeurIPS Workshop 2023)  
+
+[18 Oct 2023] [InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation](https://arxiv.org/abs/2310.11976)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11976) [![Star](https://img.shields.io/github/stars/rzhwang/infodiffusion.svg?style=social&label=Star)](https://github.com/rzhwang/infodiffusion)
 
 [09 Oct 2023] [DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models](https://arxiv.org/abs/2310.05793) (EMNLP 2023)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05793)
