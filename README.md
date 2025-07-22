@@ -252,14 +252,14 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [28 Nov 2022] [DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models](https://arxiv.org/abs/2211.15029) (ACL 2023)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.15029)
 
-[2 Nov 2022] [Concrete Score Matching: Generalized Score Matching for Discrete Data](https://arxiv.org/abs/2211.00802) (NeurIPS 2022)
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.00802)
+<!-- [2 Nov 2022] [Concrete Score Matching: Generalized Score Matching for Discrete Data](https://arxiv.org/abs/2211.00802) (NeurIPS 2022)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.00802) -->
 
 [30 Oct 2022] [DiffusER: Discrete Diffusion via Edit-based Reconstruction](https://arxiv.org/abs/2210.16886) (ICLR 2023)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.16886)
 
-[30 May 2022] [A Continuous Time Framework for Discrete Denoising Models](https://arxiv.org/abs/2205.14987) (NeurIPS 2022)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.14987)
+<!-- [30 May 2022] [A Continuous Time Framework for Discrete Denoising Models](https://arxiv.org/abs/2205.14987) (NeurIPS 2022)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.14987)  -->
 
 [13 Dec 2021] (SUNDAE) [Step-unrolled Denoising Autoencoders for Text Generation](https://arxiv.org/abs/2112.06749) (ICLR 2022)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.06749)
