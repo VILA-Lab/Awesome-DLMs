@@ -191,8 +191,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [18 Oct 2024] [Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning](https://arxiv.org/abs/2410.14157)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.14157) [![Star](https://img.shields.io/github/stars/HKUNLP/diffusion-vs-ar.svg?style=social&label=Star)](https://github.com/HKUNLP/diffusion-vs-ar)
 
-[17 Oct 2024] [Meta-DiffuB: A Contextualized Sequence-to-Sequence Text Diffusion Model with Meta-Exploration](https://arxiv.org/abs/2410.13201)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13201) [![Star](https://img.shields.io/github/stars/meta-diffub/meta-diffub.svg?style=social&label=Star)](https://github.com/meta-diffub/meta-diffub)
+
 
 [8 Oct 2024] (DDPD) [Think While You Generate: Discrete Diffusion with Planned Denoising](https://arxiv.org/abs/2410.06264)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.06264) [![Star](https://img.shields.io/github/stars/liusulin/DDPD.svg?style=social&label=Star)](https://github.com/liusulin/DDPD)
@@ -283,6 +282,9 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [15 Dec 2024] [Segment-Level Diffusion: A Framework for Controllable Long-Form Generation with Diffusion Language Models](https://arxiv.org/abs/2412.11333)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.11333)
+
+[17 Oct 2024] [Meta-DiffuB: A Contextualized Sequence-to-Sequence Text Diffusion Model with Meta-Exploration](https://arxiv.org/abs/2410.13201)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13201) [![Star](https://img.shields.io/github/stars/meta-diffub/meta-diffub.svg?style=social&label=Star)](https://github.com/meta-diffub/meta-diffub)
 
 [8 Aug 2024] [Diffusion Guided Language Modeling](https://arxiv.org/abs/2408.04220)   ( ACL Findings 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.04220) [![Star](https://img.shields.io/github/stars/justinlovelace/diffusion-guided-lm.svg?style=social&label=Star)](https://github.com/justinlovelace/diffusion-guided-lm) 
