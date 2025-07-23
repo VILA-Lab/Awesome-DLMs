@@ -107,7 +107,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10892) [![Star](https://img.shields.io/github/stars/s-sahoo/duo.svg?style=social&label=Star)](https://github.com/s-sahoo/duo)
 
 
-[5 Jun 2025] [Esoteric Language Models](https://arxiv.org/abs/2506.01928)  
+[2 Jun 2025] [Esoteric Language Models](https://arxiv.org/abs/2506.01928)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.01928) [![Star](https://img.shields.io/github/stars/s-sahoo/Eso-LMs.svg?style=social&label=Star)](https://github.com/s-sahoo/Eso-LMs)
 
 
