@@ -237,7 +237,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [19 May 2023] [Diffusion-NAT: Self-Prompting Discrete Diffusion for Non-Autoregressive Text Generation](https://arxiv.org/abs/2305.04044) (EACL 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.04044)
 
-[17 May 2023] [Likelihood-Based Diffusion Language Models](https://arxiv.org/abs/2305.18619) (NeurIPS 2023)  
+[30 May 2023] [Likelihood-Based Diffusion Language Models](https://arxiv.org/abs/2305.18619) (NeurIPS 2023)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18619) [![Star](https://img.shields.io/github/stars/igul222/plaid.svg?style=social&label=Star)](https://github.com/igul222/plaid)
 
 
