@@ -23,7 +23,6 @@
 
 - [LLaDA](https://huggingface.co/spaces/multimodalart/LLaDA) [![deploy](https://img.shields.io/badge/Hugging%20Face-Demo-yellow)](https://huggingface.co/spaces/multimodalart/LLaDA)
 
-
 - [MMaDA](https://huggingface.co/spaces/Gen-Verse/MMaDA) [![deploy](https://img.shields.io/badge/Hugging%20Face-Demo-yellow)](https://huggingface.co/spaces/Gen-Verse/MMaDA)
 
 - [Dream](https://huggingface.co/spaces/multimodalart/Dream) [![deploy](https://img.shields.io/badge/Hugging%20Face-Demo-yellow)](https://huggingface.co/spaces/multimodalart/Dream)
@@ -39,7 +38,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![Star](https://img.shields.io/github/stars/ML-GSAI/LLaDA.svg?style=social&label=Star)](https://github.com/ML-GSAI/LLaDA)
 
 [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2503.09573) (ICLR 2025)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09573)   
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09573) 
 [![Star](https://img.shields.io/github/stars/kuleshov-group/bd3lms.svg?style=social&label=Star)](https://github.com/kuleshov-group/bd3lms)
 
 [Fast-dLLM: Training-free Acceleration of Diffusion LLM by Enabling KV Cache and Parallel Decoding](https://arxiv.org/abs/2505.22618)  
