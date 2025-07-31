@@ -108,145 +108,167 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10892)[![Website](https://img.shields.io/badge/Website-9cf)](https://s-sahoo.com/duo/) [![Star](https://img.shields.io/github/stars/s-sahoo/duo.svg?style=social&label=Star)](https://github.com/s-sahoo/duo)
 
 
-[2 Jun 2025] [Esoteric Language Models](https://arxiv.org/abs/2506.01928)  
+[2 Jun 2025] [Esoteric Language Models](https://arxiv.org/abs/2506.01928)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.01928) [![Website](https://img.shields.io/badge/Website-9cf)](https://s-sahoo.com/Eso-LMs/) [![Star](https://img.shields.io/github/stars/s-sahoo/Eso-LMs.svg?style=social&label=Star)](https://github.com/s-sahoo/Eso-LMs)
 
 
-[12 Mar 2025] [Constrained Discrete Diffusion](https://arxiv.org/abs/2503.09790)  
+[12 Mar 2025] [Constrained Discrete Diffusion](https://arxiv.org/abs/2503.09790)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09790)
 
-[25 May 2025] [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/abs/2505.19223)   
+[25 May 2025] [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/abs/2505.19223) 
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.19223)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://ml-gsai.github.io/LLaDA-1.5-Demo/)
 [![Star](https://img.shields.io/github/stars/ML-GSAI/LLaDA-1.5.svg?style=social&label=Star)](https://github.com/ML-GSAI/LLaDA-1.5)
 
+[24 May 2025] [Anchored Diffusion Language Model](https://arxiv.org/abs/2505.18456)
 
-
-[24 May 2025] [Anchored Diffusion Language Model](https://arxiv.org/abs/2505.18456)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.18456)
 
-[21 May 2025] [Diffusion vs. Autoregressive Language Models: A Text Embedding Perspective](https://arxiv.org/abs/2505.15045)  
+[21 May 2025] [Diffusion vs. Autoregressive Language Models: A Text Embedding Perspective](https://arxiv.org/abs/2505.15045)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.15045)
 
-[20 May 2025] [CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation](https://arxiv.org/abs/2505.14455)  
+[20 May 2025] [CtrlDiff: Boosting Large Diffusion Language Models with Dynamic Block Prediction and Controllable Generation](https://arxiv.org/abs/2505.14455)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.14455)
 
-[9 May 2025] [Insertion Language Models: Sequence Generation with Arbitrary-Position Insertions](https://arxiv.org/abs/2505.05755)  
+[9 May 2025] [Insertion Language Models: Sequence Generation with Arbitrary-Position Insertions](https://arxiv.org/abs/2505.05755)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.05755)
 
-[22 Apr 2025] [Target Concrete Score Matching: A Holistic Framework for Discrete Diffusion](https://arxiv.org/abs/2504.16431)  
+[22 Apr 2025] [Target Concrete Score Matching: A Holistic Framework for Discrete Diffusion](https://arxiv.org/abs/2504.16431)(ICML 2025)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2504.16431)
 
+[2 Apr 2025] [Dream 7B](https://hkunlp.github.io/blog/2025/dream/)
 
-[2 Apr 2025] [Dream 7B](https://hkunlp.github.io/blog/2025/dream/)  
 [![Website](https://img.shields.io/badge/Website-9cf)](https://hkunlp.github.io/blog/2025/dream/)
 [![Star](https://img.shields.io/github/stars/HKUNLP/Dream.svg?style=social&label=Star)](https://github.com/HKUNLP/Dream)
 
-[16 Mar 2025] [State Fourier Diffusion Language Model (SFDLM): A Scalable, Novel Iterative Approach to Language Modeling](https://arxiv.org/abs/2503.17382)  
+[16 Mar 2025] [State Fourier Diffusion Language Model (SFDLM): A Scalable, Novel Iterative Approach to Language Modeling](https://arxiv.org/abs/2503.17382)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.17382)
 
+[12 Mar 2025] [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2503.09573) (ICLR 2025)
 
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09573) [![Website](https://img.shields.io/badge/Website-9cf)](https://m-arriola.com/bd3lms) [![Star](https://img.shields.io/github/stars/kuleshov-group/bd3lms.svg?style=social&label=Star)](https://github.com/kuleshov-group/bd3lms)
 
-[13 Mar 2025] [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2503.09573) (ICLR 2025)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09573) [![Star](https://img.shields.io/github/stars/kuleshov-group/bd3lms.svg?style=social&label=Star)](https://github.com/kuleshov-group/bd3lms)
+[11 Mar 2025] [Understanding the Quality-Diversity Trade-off in Diffusion Language Models](https://arxiv.org/abs/2503.10683)
 
-[11 Mar 2025] [Understanding the Quality-Diversity Trade-off in Diffusion Language Models](https://arxiv.org/abs/2503.10683)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.10683) [![Star](https://img.shields.io/github/stars/zzbuzzard/guidediffuseq.svg?style=social&label=Star)](https://github.com/zzbuzzard/guidediffuseq)
 
-[10 Mar 2025] [Generalized Interpolating Discrete Diffusion](https://arxiv.org/abs/2503.04482)  
+[6 Mar 2025] [Generalized Interpolating Discrete Diffusion](https://arxiv.org/abs/2503.04482)(ICML 2025)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.04482) [![Star](https://img.shields.io/github/stars/dvruette/gidd.svg?style=social&label=Star)](https://github.com/dvruette/gidd)
 
+[10 Feb 2025] [Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions](https://arxiv.org/abs/2502.06768)(ICML 2025)
 
-[5 Mar 2025] [Train for the Worst, Plan for the Best: Understanding Token Ordering in Masked Diffusions](https://arxiv.org/abs/2502.06768)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.06768)
 
+[14 Feb 2025] [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
-
-[14 Feb 2025] [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.09992)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://ml-gsai.github.io/LLaDA-demo/)
 [![Star](https://img.shields.io/github/stars/ML-GSAI/LLaDA.svg?style=social&label=Star)](https://github.com/ML-GSAI/LLaDA) 
 
-[13 Feb 2025] [Theoretical Benefit and Limitation of Diffusion Language Model](https://arxiv.org/abs/2502.09622)  
+[13 Feb 2025] [Theoretical Benefit and Limitation of Diffusion Language Model](https://arxiv.org/abs/2502.09622)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.09622)
 
-[13 Feb 2025] [Non-Markovian Discrete Diffusion with Causal Language Models](https://arxiv.org/abs/2502.09767)  
+[13 Feb 2025] [Non-Markovian Discrete Diffusion with Causal Language Models](https://arxiv.org/abs/2502.09767)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.09767)
 
-[10 Nov 2024] [Conditional [MASK] Discrete Diffusion Language Model](https://arxiv.org/abs/2411.06438v5)  
+[10 Nov 2024] [Conditional [MASK] Discrete Diffusion Language Model](https://arxiv.org/abs/2411.06438v5)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.06438v5)
 
-[31 Oct 2024] [Beyond Autoregression: Fast LLMs via Self-Distillation Through Time](https://arxiv.org/abs/2410.21035) (ICLR 2025)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.21035)
+[28 Oct 2024] [Beyond Autoregression: Fast LLMs via Self-Distillation Through Time](https://arxiv.org/abs/2410.21035) (ICLR 2025)
 
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.21035) [![Website](https://img.shields.io/badge/Website-9cf)](https://jdeschena.github.io/sdtt-blog/) [![Star](https://img.shields.io/github/stars/jdeschena/sdtt.svg?style=social&label=Star)](https://github.com/jdeschena/sdtt)
 
-[29 Oct 2024] [Scaling up Masked Diffusion Models on Text](https://arxiv.org/abs/2410.18514) (ICLR 2025)  
+[24 Oct 2024] [Scaling up Masked Diffusion Models on Text](https://arxiv.org/abs/2410.18514) (ICLR 2025)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.18514) [![Star](https://img.shields.io/github/stars/ml-gsai/smdm.svg?style=social&label=Star)](https://github.com/ml-gsai/smdm)
 
-[28 Oct 2024] [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://arxiv.org/abs/2410.17891) (ICLR 2025)  
+[23 Oct 2024] [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://arxiv.org/abs/2410.17891) (ICLR 2025) 
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.17891) [![Star](https://img.shields.io/github/stars/hkunlp/diffullama.svg?style=social&label=Star)](https://github.com/hkunlp/diffullama)
 
-[28 Oct 2024] [Energy-Based Diffusion Language Models for Text Generation](https://arxiv.org/abs/2410.21357)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.21357)
+[28 Oct 2024] [Energy-Based Diffusion Language Models for Text Generation](https://arxiv.org/abs/2410.21357)(ICLR 2025)
 
-[18 Oct 2024] [Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning](https://arxiv.org/abs/2410.14157)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.21357) [![Star](https://img.shields.io/github/stars/MinkaiXu/Energy-Diffusion-LLM.svg?style=social&label=Star)](https://github.com/MinkaiXu/Energy-Diffusion-LLM)
+
+[18 Oct 2024] [Beyond Autoregression: Discrete Diffusion for Complex Reasoning and Planning](https://arxiv.org/abs/2410.14157)(ICLR 2025)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.14157) [![Star](https://img.shields.io/github/stars/HKUNLP/diffusion-vs-ar.svg?style=social&label=Star)](https://github.com/HKUNLP/diffusion-vs-ar)
 
+[8 Oct 2024] (DDPD) [Think While You Generate: Discrete Diffusion with Planned Denoising](https://arxiv.org/abs/2410.06264)(ICLR 2025)
 
-
-[8 Oct 2024] (DDPD) [Think While You Generate: Discrete Diffusion with Planned Denoising](https://arxiv.org/abs/2410.06264)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.06264) [![Star](https://img.shields.io/github/stars/liusulin/DDPD.svg?style=social&label=Star)](https://github.com/liusulin/DDPD)
 
-[4 Sep 2024] [Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling](https://arxiv.org/abs/2409.02908) (ICLR 2025)  
+[4 Sep 2024] [Masked Diffusion Models are Secretly Time-Agnostic Masked Models and Exploit Inaccurate Categorical Sampling](https://arxiv.org/abs/2409.02908) (ICLR 2025)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.02908)
 
-[22 Jul 2024] [Discrete Flow Matching](https://arxiv.org/abs/2407.15595) (NeurIPS 2024)  
+[22 Jul 2024] [Discrete Flow Matching](https://arxiv.org/abs/2407.15595) (NeurIPS 2024)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.15595)
 
 [10 Jul 2024][Promises, Outlooks and Challenges of Diffusion Language Modeling](https://arxiv.org/abs/2406.11473)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11473)
 
-[11 Jun 2024] (MDLM) [Simple and Effective Masked Diffusion Language Models](https://arxiv.org/abs/2406.07524) (NeurIPS 2024)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07524)
+[11 Jun 2024] (MDLM) [Simple and Effective Masked Diffusion Language Models](https://arxiv.org/abs/2406.07524) (NeurIPS 2024)
 
-[6 Jun 2024] (RADD) [Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data](https://arxiv.org/abs/2406.03736) (ICLR 2025)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07524) [![Website](https://img.shields.io/badge/Website-9cf)](https://s sahoo.com/mdlm/) [![Star](https://img.shields.io/github/stars/kuleshov-group/mdlm.svg?style=social&label=Star)](https://github.com/kuleshov-group/mdlm)
+
+[6 Jun 2024] (RADD) [Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data](https://arxiv.org/abs/2406.03736) (ICLR 2025)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.03736)
 
-[6 Jun 2024] (MD4) [Simplified and Generalized Masked Diffusion for Discrete Data](https://arxiv.org/abs/2406.04329) (NeurIPS 2024)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.04329)
+[6 Jun 2024] (MD4) [Simplified and Generalized Masked Diffusion for Discrete Data](https://arxiv.org/abs/2406.04329) (NeurIPS 2024)
 
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.04329) [![Star](https://img.shields.io/github/stars/google-deepmind/md4.svg?style=social&label=Star)](https://github.com/google-deepmind/md4)
 
+[7 Feb 2024] [Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design](https://arxiv.org/abs/2402.04997) (ICML 2024)
 
-[7 Feb 2024] [Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design](https://arxiv.org/abs/2402.04997) (ICML 2024)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.04997)
 
-[31 Jan 2024] [Transfer Learning for Text Diffusion Models](https://arxiv.org/abs/2401.17181)  
+[30 Jan 2024] [Transfer Learning for Text Diffusion Models](https://arxiv.org/abs/2401.17181)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.17181)
 
-[25 Oct 2023] (SEDD) [Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution](https://arxiv.org/abs/2310.16834) (ICML 2024)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.16834)
+[25 Oct 2023] (SEDD) [Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution](https://arxiv.org/abs/2310.16834) (ICML 2024)
 
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.16834) [![Star](https://img.shields.io/github/stars/louaaron/Score-Entropy-Discrete-Diffusion.svg?style=social&label=Star)](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion)
 
+[15 Oct 2023] [FiLM: Fill-in Language Models for Any-Order Generation](https://arxiv.org/abs/2310.09930)(ICLR 2024)
 
-[15 Oct 2023] [FiLM: Fill-in Language Models for Any-Order Generation](https://arxiv.org/abs/2310.09930)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.09930) [![Star](https://img.shields.io/github/stars/shentianxiao/FiLM.svg?style=social&label=Star)](https://github.com/shentianxiao/FiLM)
 
+[23 Aug 2023] [Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning](https://arxiv.org/abs/2308.12219)
 
-[23 Aug 2023] [Diffusion Language Models Can Perform Many Tasks with Scaling and Instruction-Finetuning](https://arxiv.org/abs/2308.12219)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.12219) [![Star](https://img.shields.io/github/stars/yegcjs/diffusionllm.svg?style=social&label=Star)](https://github.com/yegcjs/diffusionllm)
 
-[19 May 2023] [Diffusion-NAT: Self-Prompting Discrete Diffusion for Non-Autoregressive Text Generation](https://arxiv.org/abs/2305.04044) (EACL 2024)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.04044)
+[6 May 2023] [Diffusion-NAT: Self-Prompting Discrete Diffusion for Non-Autoregressive Text Generation](https://arxiv.org/abs/2305.04044) (EACL 2024)
 
-[30 May 2023] [Likelihood-Based Diffusion Language Models](https://arxiv.org/abs/2305.18619) (NeurIPS 2023)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.04044) [![Star](https://img.shields.io/github/stars/Lancelot39/DiffusionNAT.svg?style=social&label=Star)](https://github.com/Lancelot39/DiffusionNAT)
+
+[30 May 2023] [Likelihood-Based Diffusion Language Models](https://arxiv.org/abs/2305.18619) (NeurIPS 2023)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.18619) [![Star](https://img.shields.io/github/stars/igul222/plaid.svg?style=social&label=Star)](https://github.com/igul222/plaid)
 
+[11 Feb 2023] [A Reparameterized Discrete Diffusion Model for Text Generation](https://arxiv.org/abs/2302.05737) (COLM 2024)
 
-[12 Feb 2023] [A Reparameterized Discrete Diffusion Model for Text Generation](https://arxiv.org/abs/2302.05737) (COLM 2024)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.05737)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.05737) [![Star](https://img.shields.io/github/stars/HKUNLP/reparam-discrete-diffusion.svg?style=social&label=Star)](https://github.com/HKUNLP/reparam-discrete-diffusion)
 
-[28 Nov 2022] [DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models](https://arxiv.org/abs/2211.15029) (ACL 2023)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.15029)
+[28 Nov 2022] [DiffusionBERT: Improving Generative Masked Language Models with Diffusion Models](https://arxiv.org/abs/2211.15029) (ACL 2023)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.15029) [![Star](https://img.shields.io/github/stars/Hzfinfdu/Diffusion-BERT.svg?style=social&label=Star)](https://github.com/Hzfinfdu/Diffusion-BERT)
 
 <!-- [2 Nov 2022] [Concrete Score Matching: Generalized Score Matching for Discrete Data](https://arxiv.org/abs/2211.00802) (NeurIPS 2022)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.00802) -->
@@ -264,7 +286,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.03006)
 
 [10 Feb 2021] [Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions](https://arxiv.org/abs/2102.05379) (NeurIPS 2021)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2102.05379)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2102.05379) [![Star](https://img.shields.io/github/stars/didriknielsen/argmax_flows.svg?style=social&label=Star)](https://github.com/didriknielsen/argmax_flows)
 
 
 ## Continuous DLMs
