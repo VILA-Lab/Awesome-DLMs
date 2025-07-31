@@ -92,7 +92,6 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 ## Discrete DLMs
 
 [10 Jul 2025] [Your Absorbing Discrete Diffusion Secretly Models the Bayesian Posterior](https://arxiv.org/abs/2507.07586)  
-
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.07586) [![Star](https://img.shields.io/github/stars/mercury0100/bayesradd.svg?style=social&label=Star)](https://github.com/mercury0100/bayesradd)
 
 [6 Jul 2025] [Efficient perplexity bound and ratio matching in discrete diffusion language models](https://arxiv.org/abs/2507.04341) (ICLR 2025)  
