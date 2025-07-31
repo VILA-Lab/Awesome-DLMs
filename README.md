@@ -100,7 +100,8 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [2 Jul 2025] [Discrete Diffusion Models for Language Generation](https://arxiv.org/abs/2507.07050)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.07050)[![Star](https://img.shields.io/github/stars/AshenWELI/Discrete-Diffusion-Models-for-Language-Genaration.svg?style=social&label=Star)](https://github.com/AshenWELI/Discrete-Diffusion-Models-for-Language-Genaration)
 
-[17 Jun 2025] [LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs](https://arxiv.org/abs/2506.14429)  
+[17 Jun 2025] [LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs](https://arxiv.org/abs/2506.14429)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.14429)
 [![Star](https://img.shields.io/github/stars/OpenMOSS/LongLLaDA.svg?style=social&label=Star)](https://github.com/OpenMOSS/LongLLaDA)
 
@@ -361,14 +362,14 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.09515) [![Star](https://img.shields.io/github/stars/microsoft/ProphetNet.svg?style=social&label=Star)](https://github.com/microsoft/ProphetNet/tree/master/AR-diffusion)
 
-[25 Apr 2023] [Glyphdiffusion: Text generation as image generation](https://arxiv.org/abs/2304.12519)
-
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.12519)
-
 [15 May 2023] [TESS: Text-to-Text Self-Conditioned Simplex Diffusion](https://arxiv.org/abs/2305.08379) (EACL 2024)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.08379)
 [![Star](https://img.shields.io/github/stars/allenai/tess-diffusion.svg?style=social&label=Star)](https://github.com/allenai/tess-diffusion)
+
+[25 Apr 2023] [Glyphdiffusion: Text generation as image generation](https://arxiv.org/abs/2304.12519)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.12519)
 
 [10 Apr 2023] [A Cheaper and Better Diffusion Language Model with Soft-Masked Noise](https://arxiv.org/abs/2304.04746) (EMNLP 2023)
 
@@ -387,7 +388,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.10325)[![Star](https://img.shields.io/github/stars/Yuanhy1997/SeqDiffuSeq.svg?style=social&label=Star)](https://github.com/Yuanhy1997/SeqDiffuSeq)
 
-[19 Dec 2022 ] [Latent Diffusion for Language Generation](https://arxiv.org/abs/2212.09462) (NeurIPS 2023)
+[19 Dec 2022] [Latent Diffusion for Language Generation](https://arxiv.org/abs/2212.09462) (NeurIPS 2023)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.09462)
 [![Star](https://img.shields.io/github/stars/justinlovelace/latent-diffusion-for-language.svg?style=social&label=Star)](https://github.com/justinlovelace/latent-diffusion-for-language)
