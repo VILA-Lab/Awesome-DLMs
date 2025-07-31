@@ -224,7 +224,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [11 Jun 2024] (MDLM) [Simple and Effective Masked Diffusion Language Models](https://arxiv.org/abs/2406.07524) (NeurIPS 2024)
 
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07524) [![Website](https://img.shields.io/badge/Website-9cf)](https://s sahoo.com/mdlm/) [![Star](https://img.shields.io/github/stars/kuleshov-group/mdlm.svg?style=social&label=Star)](https://github.com/kuleshov-group/mdlm)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.07524) [![Website](https://img.shields.io/badge/Website-9cf)](https://s-sahoo.com/mdlm/) [![Star](https://img.shields.io/github/stars/kuleshov-group/mdlm.svg?style=social&label=Star)](https://github.com/kuleshov-group/mdlm)
 
 [6 Jun 2024] (RADD) [Your Absorbing Discrete Diffusion Secretly Models the Conditional Distributions of Clean Data](https://arxiv.org/abs/2406.03736) (ICLR 2025)
 
@@ -273,19 +273,23 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 <!-- [2 Nov 2022] [Concrete Score Matching: Generalized Score Matching for Discrete Data](https://arxiv.org/abs/2211.00802) (NeurIPS 2022)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.00802) -->
 
-[30 Oct 2022] [DiffusER: Discrete Diffusion via Edit-based Reconstruction](https://arxiv.org/abs/2210.16886) (ICLR 2023)  
+[30 Oct 2022] [DiffusER: Discrete Diffusion via Edit-based Reconstruction](https://arxiv.org/abs/2210.16886) (ICLR 2023)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.16886)
 
 <!-- [30 May 2022] [A Continuous Time Framework for Discrete Denoising Models](https://arxiv.org/abs/2205.14987) (NeurIPS 2022)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.14987)  -->
 
-[13 Dec 2021] (SUNDAE) [Step-unrolled Denoising Autoencoders for Text Generation](https://arxiv.org/abs/2112.06749) (ICLR 2022)  
+[13 Dec 2021] (SUNDAE) [Step-unrolled Denoising Autoencoders for Text Generation](https://arxiv.org/abs/2112.06749) (ICLR 2022)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2112.06749)
 
-[7 Jul 2021] [Structured Denoising Diffusion Models in Discrete State-Spaces](https://arxiv.org/abs/2107.03006) (NeurIPS 2021)  
+[7 Jul 2021] [Structured Denoising Diffusion Models in Discrete State-Spaces](https://arxiv.org/abs/2107.03006) (NeurIPS 2021)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.03006)
 
-[10 Feb 2021] [Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions](https://arxiv.org/abs/2102.05379) (NeurIPS 2021)  
+[10 Feb 2021] [Argmax Flows and Multinomial Diffusion: Learning Categorical Distributions](https://arxiv.org/abs/2102.05379) (NeurIPS 2021)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2102.05379) [![Star](https://img.shields.io/github/stars/didriknielsen/argmax_flows.svg?style=social&label=Star)](https://github.com/didriknielsen/argmax_flows)
 
 
