@@ -245,7 +245,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.16834) [![Star](https://img.shields.io/github/stars/louaaron/Score-Entropy-Discrete-Diffusion.svg?style=social&label=Star)](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion)
 
-[15 Oct 2023] [FiLM: Fill-in Language Models for Any-Order Generation](https://arxiv.org/abs/2310.09930)(ICLR 2024)
+[15 Oct 2023] [FiLM: Fill-in Language Models for Any-Order Generation](https://arxiv.org/abs/2310.09930)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.09930) [![Star](https://img.shields.io/github/stars/shentianxiao/FiLM.svg?style=social&label=Star)](https://github.com/shentianxiao/FiLM)
 
@@ -434,7 +434,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.23606) [![Star](https://img.shields.io/github/stars/M-E-AGI-Lab/Muddit.svg?style=social&label=Star)](https://github.com/M-E-AGI-Lab/Muddit) 
 
 [26 May 2025] [FUDOKI: Discrete Flow-based Unified Understanding and Generation via Kinetic-Optimal Velocities](https://arxiv.org/abs/2505.20147)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.20147) [![Website](https://img.shields.io/badge/Website-9cf)](https://fudoki-hku.github.io/)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.20147) [![Website](https://img.shields.io/badge/Website-9cf)](https://fudoki-hku.github.io/)[![Star](https://img.shields.io/github/stars/fudoki-hku/FUDOKI.svg?style=social&label=Star)](https://github.com/fudoki-hku/FUDOKI)
 
 [22 May 2025] [LaViDa: A Large Diffusion Language Model for Multimodal Understanding](https://arxiv.org/abs/2505.16839)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.16839) [![Website](https://img.shields.io/badge/Website-9cf)](https://homepage.jackli.org/projects/lavida/) [![Star](https://img.shields.io/github/stars/jacklishufan/LaViDa.svg?style=social&label=Star)](https://github.com/jacklishufan/LaViDa) 
