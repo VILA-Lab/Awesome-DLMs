@@ -293,26 +293,32 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Continuous DLMs
-[26 Jun 2025] [Compressed and Smooth Latent Space for Text Diffusion Modeling](https://arxiv.org/abs/2506.21170)  
+[26 Jun 2025] [Compressed and Smooth Latent Space for Text Diffusion Modeling](https://arxiv.org/abs/2506.21170)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.21170)
 
-[28 May 2025] [Unifying Continuous and Discrete Text Diffusion with Non-simultaneous Diffusion Processes](https://arxiv.org/abs/2505.22165)  
+[28 May 2025] [Unifying Continuous and Discrete Text Diffusion with Non-simultaneous Diffusion Processes](https://arxiv.org/abs/2505.22165)(ACL 2025)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.22165)
 
-[24 May 2025] [Smoothie: Smoothing Diffusion on Token Embeddings for Text Generation](https://arxiv.org/abs/2505.18853)  
+[24 May 2025] [Smoothie: Smoothing Diffusion on Token Embeddings for Text Generation](https://arxiv.org/abs/2505.18853)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.18853) [![Star](https://img.shields.io/github/stars/ashaba1in/smoothie.svg?style=social&label=Star)](https://github.com/ashaba1in/smoothie)
 
+[19 Feb 2025] [TESS 2: A Large-Scale Generalist Diffusion Language Model](https://arxiv.org/abs/2502.13917)
 
-[19 Feb 2025] [TESS 2: A Large-Scale Generalist Diffusion Language Model](https://arxiv.org/abs/2502.13917)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.13917) [![Star](https://img.shields.io/github/stars/hamishivi/tess-2.svg?style=social&label=Star)](https://github.com/hamishivi/tess-2)
 
-[15 Dec 2024] [Segment-Level Diffusion: A Framework for Controllable Long-Form Generation with Diffusion Language Models](https://arxiv.org/abs/2412.11333)  
+[15 Dec 2024] [Segment-Level Diffusion: A Framework for Controllable Long-Form Generation with Diffusion Language Models](https://arxiv.org/abs/2412.11333)(ACL 2025)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.11333)
 
-[17 Oct 2024] [Meta-DiffuB: A Contextualized Sequence-to-Sequence Text Diffusion Model with Meta-Exploration](https://arxiv.org/abs/2410.13201)  
+[17 Oct 2024] [Meta-DiffuB: A Contextualized Sequence-to-Sequence Text Diffusion Model with Meta-Exploration](https://arxiv.org/abs/2410.13201)(NeurIPS 2024)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13201) [![Star](https://img.shields.io/github/stars/meta-diffub/meta-diffub.svg?style=social&label=Star)](https://github.com/meta-diffub/meta-diffub)
 
-[8 Aug 2024] [Diffusion Guided Language Modeling](https://arxiv.org/abs/2408.04220)   ( ACL Findings 2024)  
+[8 Aug 2024] [Diffusion Guided Language Modeling](https://arxiv.org/abs/2408.04220)(ACL Findings 2024)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.04220) [![Star](https://img.shields.io/github/stars/justinlovelace/diffusion-guided-lm.svg?style=social&label=Star)](https://github.com/justinlovelace/diffusion-guided-lm) 
 
 
@@ -325,78 +331,99 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [11 Mar 2024] [Flow Matching for Conditional Text Generation in a Few Sampling Steps](https://aclanthology.org/2024.eacl-short.33/) (EACL 2024)  
 
-[29 Feb 2024] [TEncDM: Understanding the Properties of Diffusion Model in the Space of Language Model Encodings](https://arxiv.org/abs/2402.19097)  
+[29 Feb 2024] [TEncDM: Understanding the Properties of Diffusion Model in the Space of Language Model Encodings](https://arxiv.org/abs/2402.19097)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.19097) [![Star](https://img.shields.io/github/stars/M0RJIQUE/tencdm.svg?style=social&label=Star)](https://github.com/M0RJIQUE/tencdm)
 
-[29 Feb 2024] [Generating, Reconstructing, and Representing Discrete and Continuous Data: Generalized Diffusion with Learnable Encoding-Decoding](https://arxiv.org/abs/2402.19009)  
+[29 Feb 2024] [Generating, Reconstructing, and Representing Discrete and Continuous Data: Generalized Diffusion with Learnable Encoding-Decoding](https://arxiv.org/abs/2402.19009) (ICML 2024)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.19009)
 
 [31 Oct 2023] [LADIDA: Latent Diffusion for Document Generation with Sequential Decoding](https://neurips.cc/virtual/2023/74876) (NeurIPS Workshop 2023)  
 
-[18 Oct 2023] [InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation](https://arxiv.org/abs/2310.11976)  
+[18 Oct 2023] [InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation](https://arxiv.org/abs/2310.11976)(EMNLP 2023)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11976) [![Star](https://img.shields.io/github/stars/rzhwang/infodiffusion.svg?style=social&label=Star)](https://github.com/rzhwang/infodiffusion)
 
-[09 Oct 2023] [DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models](https://arxiv.org/abs/2310.05793) (EMNLP 2023)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05793)
+[09 Oct 2023] [DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models](https://arxiv.org/abs/2310.05793) (EMNLP 2023)
 
-[26 Jul 2023] [How Does Diffusion Influence Pretrained Language Models on Out-of-Distribution Data?](https://arxiv.org/abs/2307.13949) (ECAI 2023)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05793) [![Star](https://img.shields.io/github/stars/Shark-NLP/DiffuSeq.svg?style=social&label=Star)](https://github.com/Shark-NLP/DiffuSeq)
+
+[26 Jul 2023] [How Does Diffusion Influence Pretrained Language Models on Out-of-Distribution Data?](https://arxiv.org/abs/2307.13949) (ECAI 2023)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.13949) [![Star](https://img.shields.io/github/stars/maybelizzy/diffusion_ood_robustness.svg?style=social&label=Star)](https://github.com/maybelizzy/diffusion_ood_robustness)
 
-[19 May 2023] [DiffuSIA: A Spiral Interaction Architecture for Encoder-Decoder Text Diffusion](https://arxiv.org/abs/2305.11517)  
+[19 May 2023] [DiffuSIA: A Spiral Interaction Architecture for Encoder-Decoder Text Diffusion](https://arxiv.org/abs/2305.11517)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.11517)
 
-[16 May 2023] [AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation](https://arxiv.org/abs/2305.09515) (NeurIPS 2023)  
+[16 May 2023] [AR-Diffusion: Auto-Regressive Diffusion Model for Text Generation](https://arxiv.org/abs/2305.09515) (NeurIPS 2023)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.09515) [![Star](https://img.shields.io/github/stars/microsoft/ProphetNet.svg?style=social&label=Star)](https://github.com/microsoft/ProphetNet/tree/master/AR-diffusion)
 
-[24 Apr 2023] [Glyphdiffusion: Text generation as image generation](https://arxiv.org/abs/2304.12519)  
+[25 Apr 2023] [Glyphdiffusion: Text generation as image generation](https://arxiv.org/abs/2304.12519)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.12519)
 
-[19 Apr 2023] [TESS: Text-to-Text Self-Conditioned Simplex Diffusion](https://arxiv.org/abs/2305.08379)  
+[15 May 2023] [TESS: Text-to-Text Self-Conditioned Simplex Diffusion](https://arxiv.org/abs/2305.08379)(EACL 2024)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.08379)
 [![Star](https://img.shields.io/github/stars/allenai/tess-diffusion.svg?style=social&label=Star)](https://github.com/allenai/tess-diffusion)
 
-[10 Apr 2023] [A Cheaper and Better Diffusion Language Model with Soft-Masked Noise](https://arxiv.org/abs/2304.04746) (EMNLP 2023)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.04746)
+[10 Apr 2023] [A Cheaper and Better Diffusion Language Model with Soft-Masked Noise](https://arxiv.org/abs/2304.04746) (EMNLP 2023)
 
-[20 Feb 2023] [Dinoiser: Diffused conditional sequence learning by manipulating noises](https://arxiv.org/abs/2302.10025)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.10025)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.04746)[![Star](https://img.shields.io/github/stars/amazon-science/masked-diffusion-lm.svg?style=social&label=Star)](https://github.com/amazon-science/masked-diffusion-lm)
 
+[20 Feb 2023] [Dinoiser: Diffused conditional sequence learning by manipulating noises](https://arxiv.org/abs/2302.10025)(TCAL 2024)
 
-[22 Dec 2022] (GENIE) [Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise](https://arxiv.org/abs/2212.11685) (ICML 2023)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.10025)[![Star](https://img.shields.io/github/stars/yegcjs/DINOISER.svg?style=social&label=Star)](https://github.com/yegcjs/DINOISER)
+
+[22 Dec 2022] (GENIE) [Text Generation with Diffusion Language Models: A Pre-training Approach with Continuous Paragraph Denoise](https://arxiv.org/abs/2212.11685) (ICML 2023)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.11685)
 [![Star](https://img.shields.io/github/stars/microsoft/ProphetNet.svg?style=social&label=Star)](https://github.com/microsoft/ProphetNet/tree/master/GENIE)
 
-[20 Dec 2022] [Seqdiffuseq: Text diffusion with encoder-decoder transformers](https://arxiv.org/abs/2212.10325)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.10325)
+[20 Dec 2022] [Seqdiffuseq: Text diffusion with encoder-decoder transformers](https://arxiv.org/abs/2212.10325)(NAACL 2024)
 
-[19 Dec 2022 ] [Latent Diffusion for Language Generation](https://arxiv.org/abs/2212.09462) (NeurIPS 2023)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.10325)[![Star](https://img.shields.io/github/stars/Yuanhy1997/SeqDiffuSeq.svg?style=social&label=Star)](https://github.com/Yuanhy1997/SeqDiffuSeq)
+
+[19 Dec 2022 ] [Latent Diffusion for Language Generation](https://arxiv.org/abs/2212.09462) (NeurIPS 2023)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.09462)
 [![Star](https://img.shields.io/github/stars/justinlovelace/latent-diffusion-for-language.svg?style=social&label=Star)](https://github.com/justinlovelace/latent-diffusion-for-language)
 
-[19 Dec 2022] (Difformer) [Empowering Diffusion Models on the Embedding Space for Text Generation](https://arxiv.org/abs/2212.09412) (NAACL 2024)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.09412)
+[19 Dec 2022] (Difformer) [Empowering Diffusion Models on the Embedding Space for Text Generation](https://arxiv.org/abs/2212.09412) (NAACL 2024)
 
-[28 Nov 2022] [Continuous diffusion for categorical data](https://arxiv.org/abs/2211.15089)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.09412)[![Star](https://img.shields.io/github/stars/zhjgao/difformer.svg?style=social&label=Star)](https://github.com/zhjgao/difformer)
+
+[28 Nov 2022] [Continuous diffusion for categorical data](https://arxiv.org/abs/2211.15089)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.15089)
 
-[8 Nov 2022] [Self-conditioned Embedding Diffusion for Text Generation](https://arxiv.org/abs/2211.04236)  
+[8 Nov 2022] [Self-conditioned Embedding Diffusion for Text Generation](https://arxiv.org/abs/2211.04236)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.04236)
 
-[31 Oct 2022] [SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control](https://arxiv.org/abs/2210.17432) (ACL 2023)  
+[31 Oct 2022] [SSD-LM: Semi-autoregressive Simplex-based Diffusion Language Model for Text Generation and Modular Control](https://arxiv.org/abs/2210.17432) (ACL 2023)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.17432)
 [![Star](https://img.shields.io/github/stars/xhan77/ssd-lm.svg?style=social&label=Star)](https://github.com/xhan77/ssd-lm)
 
-[17 Oct 2022] [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models](https://arxiv.org/abs/2210.08933) (ICLR 2023)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.08933)
+[17 Oct 2022] [DiffuSeq: Sequence to Sequence Text Generation with Diffusion Models](https://arxiv.org/abs/2210.08933) (ICLR 2023)
 
-[1 Aug 2022] [Composable Text Controls in Latent Space with ODEs](https://arxiv.org/abs/2208.00638) (EMNLP 2022)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.00638)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2210.08933)[![Star](https://img.shields.io/github/stars/Shark-NLP/DiffuSeq.svg?style=social&label=Star)](https://github.com/Shark-NLP/DiffuSeq)
 
-[30 May 2022] [Latent Diffusion Energy-Based Model for Interpretable Text Modeling](https://arxiv.org/abs/2206.05895)
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2206.05895)
+[1 Aug 2022] [Composable Text Controls in Latent Space with ODEs](https://arxiv.org/abs/2208.00638) (EMNLP 2023)
 
-[28 May 2022] [Diffusion-LM Improves Controllable Text Generation](https://arxiv.org/abs/2205.14217) (NeurIPS 2022)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.14217)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.00638)[![Star](https://img.shields.io/github/stars/guangyliu/LatentOps.svg?style=social&label=Star)](https://github.com/guangyliu/LatentOps)
+
+[13 Jun 2022] [Latent Diffusion Energy-Based Model for Interpretable Text Modeling](https://arxiv.org/abs/2206.05895)(ICML 2022)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2206.05895)[![Star](https://img.shields.io/github/stars/yuPeiyu98/Latent-Diffusion-EBM.svg?style=social&label=Star)](https://github.com/yuPeiyu98/Latent-Diffusion-EBM)
+
+[27 May 2022] [Diffusion-LM Improves Controllable Text Generation](https://arxiv.org/abs/2205.14217) (NeurIPS 2022)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2205.14217) [![Star](https://img.shields.io/github/stars/XiangLi1999/Diffusion-LM.svg?style=social&label=Star)](https://github.com/XiangLi1999/Diffusion-LM)
 
 
 
