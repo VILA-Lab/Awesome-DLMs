@@ -297,7 +297,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.21170)
 
-[28 May 2025] [Unifying Continuous and Discrete Text Diffusion with Non-simultaneous Diffusion Processes](https://arxiv.org/abs/2505.22165)(ACL 2025)
+[28 May 2025] [Unifying Continuous and Discrete Text Diffusion with Non-simultaneous Diffusion Processes](https://arxiv.org/abs/2505.22165) (ACL 2025)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.22165)
 
@@ -309,15 +309,15 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.13917) [![Star](https://img.shields.io/github/stars/hamishivi/tess-2.svg?style=social&label=Star)](https://github.com/hamishivi/tess-2)
 
-[15 Dec 2024] [Segment-Level Diffusion: A Framework for Controllable Long-Form Generation with Diffusion Language Models](https://arxiv.org/abs/2412.11333)(ACL 2025)
+[15 Dec 2024] [Segment-Level Diffusion: A Framework for Controllable Long-Form Generation with Diffusion Language Models](https://arxiv.org/abs/2412.11333) (ACL 2025)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.11333)
 
-[17 Oct 2024] [Meta-DiffuB: A Contextualized Sequence-to-Sequence Text Diffusion Model with Meta-Exploration](https://arxiv.org/abs/2410.13201)(NeurIPS 2024)
+[17 Oct 2024] [Meta-DiffuB: A Contextualized Sequence-to-Sequence Text Diffusion Model with Meta-Exploration](https://arxiv.org/abs/2410.13201) (NeurIPS 2024)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13201) [![Star](https://img.shields.io/github/stars/meta-diffub/meta-diffub.svg?style=social&label=Star)](https://github.com/meta-diffub/meta-diffub)
 
-[8 Aug 2024] [Diffusion Guided Language Modeling](https://arxiv.org/abs/2408.04220)(ACL Findings 2024)
+[8 Aug 2024] [Diffusion Guided Language Modeling](https://arxiv.org/abs/2408.04220) (ACL Findings 2024)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.04220) [![Star](https://img.shields.io/github/stars/justinlovelace/diffusion-guided-lm.svg?style=social&label=Star)](https://github.com/justinlovelace/diffusion-guided-lm) 
 
@@ -341,7 +341,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [31 Oct 2023] [LADIDA: Latent Diffusion for Document Generation with Sequential Decoding](https://neurips.cc/virtual/2023/74876) (NeurIPS Workshop 2023)  
 
-[18 Oct 2023] [InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation](https://arxiv.org/abs/2310.11976)(EMNLP 2023)
+[18 Oct 2023] [InfoDiffusion: Information Entropy Aware Diffusion Process for Non-Autoregressive Text Generation](https://arxiv.org/abs/2310.11976) (EMNLP 2023)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.11976) [![Star](https://img.shields.io/github/stars/rzhwang/infodiffusion.svg?style=social&label=Star)](https://github.com/rzhwang/infodiffusion)
 
@@ -365,7 +365,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.12519)
 
-[15 May 2023] [TESS: Text-to-Text Self-Conditioned Simplex Diffusion](https://arxiv.org/abs/2305.08379)(EACL 2024)
+[15 May 2023] [TESS: Text-to-Text Self-Conditioned Simplex Diffusion](https://arxiv.org/abs/2305.08379) (EACL 2024)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.08379)
 [![Star](https://img.shields.io/github/stars/allenai/tess-diffusion.svg?style=social&label=Star)](https://github.com/allenai/tess-diffusion)
@@ -374,7 +374,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.04746)[![Star](https://img.shields.io/github/stars/amazon-science/masked-diffusion-lm.svg?style=social&label=Star)](https://github.com/amazon-science/masked-diffusion-lm)
 
-[20 Feb 2023] [Dinoiser: Diffused conditional sequence learning by manipulating noises](https://arxiv.org/abs/2302.10025)(TCAL 2024)
+[20 Feb 2023] [Dinoiser: Diffused conditional sequence learning by manipulating noises](https://arxiv.org/abs/2302.10025) (TCAL 2024)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2302.10025)[![Star](https://img.shields.io/github/stars/yegcjs/DINOISER.svg?style=social&label=Star)](https://github.com/yegcjs/DINOISER)
 
@@ -383,7 +383,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.11685)
 [![Star](https://img.shields.io/github/stars/microsoft/ProphetNet.svg?style=social&label=Star)](https://github.com/microsoft/ProphetNet/tree/master/GENIE)
 
-[20 Dec 2022] [Seqdiffuseq: Text diffusion with encoder-decoder transformers](https://arxiv.org/abs/2212.10325)(NAACL 2024)
+[20 Dec 2022] [Seqdiffuseq: Text diffusion with encoder-decoder transformers](https://arxiv.org/abs/2212.10325) (NAACL 2024)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2212.10325)[![Star](https://img.shields.io/github/stars/Yuanhy1997/SeqDiffuSeq.svg?style=social&label=Star)](https://github.com/Yuanhy1997/SeqDiffuSeq)
 
@@ -417,7 +417,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2208.00638)[![Star](https://img.shields.io/github/stars/guangyliu/LatentOps.svg?style=social&label=Star)](https://github.com/guangyliu/LatentOps)
 
-[13 Jun 2022] [Latent Diffusion Energy-Based Model for Interpretable Text Modeling](https://arxiv.org/abs/2206.05895)(ICML 2022)
+[13 Jun 2022] [Latent Diffusion Energy-Based Model for Interpretable Text Modeling](https://arxiv.org/abs/2206.05895) (ICML 2022)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2206.05895)[![Star](https://img.shields.io/github/stars/yuPeiyu98/Latent-Diffusion-EBM.svg?style=social&label=Star)](https://github.com/yuPeiyu98/Latent-Diffusion-EBM)
 
