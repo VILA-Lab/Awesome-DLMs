@@ -95,27 +95,27 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.07586) [![Star](https://img.shields.io/github/stars/mercury0100/bayesradd.svg?style=social&label=Star)](https://github.com/mercury0100/bayesradd)
 
 [6 Jul 2025] [Efficient perplexity bound and ratio matching in discrete diffusion language models](https://arxiv.org/abs/2507.04341) (ICLR 2025)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.04341) 
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.04341) [![Star](https://img.shields.io/github/stars/MetaDialog-Research/PBRC.svg?style=social&label=Star)](https://github.com/MetaDialog-Research/PBRC)
 
-[2 Jul 2025] [Discrete Diffusion Models for Language Generation](https://arxiv.org/abs/2507.07050)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.07050)
+[2 Jul 2025] [Discrete Diffusion Models for Language Generation](https://arxiv.org/abs/2507.07050)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.07050)[![Star](https://img.shields.io/github/stars/AshenWELI/Discrete-Diffusion-Models-for-Language-Genaration.svg?style=social&label=Star)](https://github.com/AshenWELI/Discrete-Diffusion-Models-for-Language-Genaration)
 
 [17 Jun 2025] [LongLLaDA: Unlocking Long Context Capabilities in Diffusion LLMs](https://arxiv.org/abs/2506.14429)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.14429)
 [![Star](https://img.shields.io/github/stars/OpenMOSS/LongLLaDA.svg?style=social&label=Star)](https://github.com/OpenMOSS/LongLLaDA)
 
-[12 Jun 2025] [The Diffusion Duality](https://arxiv.org/abs/2506.10892)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10892) [![Star](https://img.shields.io/github/stars/s-sahoo/duo.svg?style=social&label=Star)](https://github.com/s-sahoo/duo)
+[12 Jun 2025] [The Diffusion Duality](https://arxiv.org/abs/2506.10892)(ICML 2025)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10892)[![Website](https://img.shields.io/badge/Website-9cf)](https://s-sahoo.com/duo/) [![Star](https://img.shields.io/github/stars/s-sahoo/duo.svg?style=social&label=Star)](https://github.com/s-sahoo/duo)
 
 
 [2 Jun 2025] [Esoteric Language Models](https://arxiv.org/abs/2506.01928)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.01928) [![Star](https://img.shields.io/github/stars/s-sahoo/Eso-LMs.svg?style=social&label=Star)](https://github.com/s-sahoo/Eso-LMs)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.01928) [![Website](https://img.shields.io/badge/Website-9cf)](https://s-sahoo.com/Eso-LMs/) [![Star](https://img.shields.io/github/stars/s-sahoo/Eso-LMs.svg?style=social&label=Star)](https://github.com/s-sahoo/Eso-LMs)
 
 
-[29 May 2025] [Constrained Discrete Diffusion](https://arxiv.org/abs/2503.09790)  
+[12 Mar 2025] [Constrained Discrete Diffusion](https://arxiv.org/abs/2503.09790)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09790)
 
-[25 May 2025] [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/abs/2505.19223)  
+[25 May 2025] [LLaDA 1.5: Variance-Reduced Preference Optimization for Large Language Diffusion Models](https://arxiv.org/abs/2505.19223)   
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.19223)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://ml-gsai.github.io/LLaDA-1.5-Demo/)
 [![Star](https://img.shields.io/github/stars/ML-GSAI/LLaDA-1.5.svg?style=social&label=Star)](https://github.com/ML-GSAI/LLaDA-1.5)
