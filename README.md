@@ -772,11 +772,11 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [26 Jul 2023] [Founding a mathematical diffusion model in linguistics. The case study of German syntactic features in the North-Eastern Italian dialects](https://arxiv.org/abs/2307.14291) (EPJ Plus 2023)
 
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.14291)
+
 [25 Jul 2023] [XDLM: Cross-lingual Diffusion Language Model for Machine Translation](https://arxiv.org/abs/2307.13560)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.13560)[![Star](https://img.shields.io/github/stars/Amayama/XDLM.svg?style=social&label=Star)](https://github.com/Amayama/XDLM)
-
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.14291)
 
 [9 Jul 2023] [Controllable Conversation Generation with Conversation Structures via Diffusion Models](https://aclanthology.org/2023.findings-acl.454/) (ACL 2023)
 
