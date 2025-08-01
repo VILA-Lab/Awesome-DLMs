@@ -649,10 +649,6 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08134)
 
-[5 Sep 2024] [An Effective Deployment of Diffusion LM for Data Augmentation in Low-Resource Sentiment Classification](https://arxiv.org/abs/2409.03203) (EMNLP 2024)
-
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.03203) [![Star](https://img.shields.io/github/stars/johnnychanv/diffusioncls.svg?style=social&label=Star)](https://github.com/johnnychanv/diffusioncls)
-
 [14 Sep 2024] [Towards Diverse and Efficient Audio Captioning via Diffusion Models](https://arxiv.org/abs/2409.09401) (DAC-Interspeech25)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.09401)
@@ -661,6 +657,10 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.13739)
 
+[5 Sep 2024] [An Effective Deployment of Diffusion LM for Data Augmentation in Low-Resource Sentiment Classification](https://arxiv.org/abs/2409.03203) (EMNLP 2024)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.03203) [![Star](https://img.shields.io/github/stars/johnnychanv/diffusioncls.svg?style=social&label=Star)](https://github.com/johnnychanv/diffusioncls)
+
 [11 Jul 2024] [DiffusPoll: Conditional Text Diffusion Model for Poll Generation](https://aclanthology.org/2024.findings-acl.54/) (ACL 2024)
 
 [![Star](https://img.shields.io/github/stars/bansky-cl/DiffusPoll.svg?style=social&label=Star)](https://github.com/bansky-cl/DiffusPoll)
@@ -668,11 +668,6 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [25 Jun 2024] [Discrete Diffusion Language Model for Efficient Text Summarization](https://arxiv.org/abs/2407.10998) (NAACL 2025)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10998)
-
-[16 Nov 2023] [P^3SUM: Preserving Author's Perspective in News Summarization with Diffusion Language Models](https://arxiv.org/abs/2311.09741) (NAACL 2024)
-
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.09741)
-[![Star](https://img.shields.io/github/stars/lyh6560new/P3Sum.svg?style=social&label=Star)](https://github.com/lyh6560new/P3Sum)
 
 [16 Apr 2024] [LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?](https://arxiv.org/abs/2404.10763) (NAACL 2024)
 
@@ -692,6 +687,10 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [5 Mar 2024] [Improving Iteration-based Non-Autoregressive Language Model With Time Step Awareness](https://www.researchgate.net/publication/379326543_Improving_Iteration-based_Non-Autoregressive_Language_Model_With_Time_Step_Awareness) (ICPADS 2023)
 
+[28 Feb 2024] [Diffusion Language Models Are Versatile Protein Learners](https://arxiv.org/abs/2402.18567) (ICML 2024)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.18567) [![Star](https://img.shields.io/github/stars/bytedance/dplm.svg?style=social&label=Star)](https://github.com/bytedance/dplm)
+
 [26 Feb 2024] [DiffuCOMET: Contextual Commonsense Knowledge Diffusion](https://arxiv.org/abs/2402.17011) (ACL 2024)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17011) [![Star](https://img.shields.io/github/stars/silin159/diffucomet.svg?style=social&label=Star)](https://github.com/silin159/diffucomet)
@@ -703,10 +702,6 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [23 Feb 2024] [Let's Rectify Step by Step: Improving Aspect-based Sentiment Analysis with Diffusion Models](https://arxiv.org/abs/2402.15289) (LREC-COLING 2024)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15289) [![Star](https://img.shields.io/github/stars/Qlb6x/DiffusionABSA.svg?style=social&label=Star)](https://github.com/Qlb6x/DiffusionABSA)
-
-[28 Feb 2024] [Diffusion Language Models Are Versatile Protein Learners](https://arxiv.org/abs/2402.18567) (ICML 2024)
-
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.18567) [![Star](https://img.shields.io/github/stars/bytedance/dplm.svg?style=social&label=Star)](https://github.com/bytedance/dplm)
 
 [20 Feb 2024] [Text-Guided Molecule Generation with Diffusion Language Model](https://arxiv.org/abs/2402.13040) (AAAI 2024)
 
@@ -730,15 +725,20 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [12 Dec 2023] [DiffuVST: Narrating Fictional Scenes with Global-History-Guided Denoising Models](https://arxiv.org/abs/2312.07066) (EMNLP 2023)
 
+[3 Dec 2023] [DiffuCom: A novel diffusion model for comment generation](https://www.sciencedirect.com/science/article/abs/pii/S0950705123008195) (Knowledge-Based Systems)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.07066)
+
+[16 Nov 2023] [P^3SUM: Preserving Author's Perspective in News Summarization with Diffusion Language Models](https://arxiv.org/abs/2311.09741) (NAACL 2024)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.09741)
+[![Star](https://img.shields.io/github/stars/lyh6560new/P3Sum.svg?style=social&label=Star)](https://github.com/lyh6560new/P3Sum)
+
+[31 Oct 2023] [LADIDA: Latent Diffusion for Document Generation with Sequential Decoding](https://neurips.cc/virtual/2023/74876) (NeurIPS Workshop 2023)  
 
 [26 Oct 2023] [CodeFusion: A Pre-trained Diffusion Model for Code Generation](https://arxiv.org/abs/2310.17680) (EMNLP 2023)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.17680)
-
-[31 Oct 2023] [LADIDA: Latent Diffusion for Document Generation with Sequential Decoding](https://neurips.cc/virtual/2023/74876) (NeurIPS Workshop 2023)  
-
-[21 Oct 2023] [Context-Aware Prompt for Generation-based Event Argument Extraction with Diffusion Models](https://dl.acm.org/doi/abs/10.1145/3583780.3614820) (CIKM 2023)
 
 [26 Oct 2023] [DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation](https://arxiv.org/abs/2310.17570) (EMNLP 2023)
 
@@ -756,11 +756,11 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.15296)[![Star](https://img.shields.io/github/stars/amazon-science/text_generation_diffusion_llm_topic.svg?style=social&label=Star)](https://github.com/amazon-science/text_generation_diffusion_llm_topic)
 
+[21 Oct 2023] [Context-Aware Prompt for Generation-based Event Argument Extraction with Diffusion Models](https://dl.acm.org/doi/abs/10.1145/3583780.3614820) (CIKM 2023)
+
 [16 Oct 2023] [ForceGen: End-to-end de novo protein generation based on nonlinear mechanical unfolding responses using a protein language diffusion model](https://arxiv.org/abs/2310.10605) (ScienceAdvances)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.10605)
-
-[3 Dec 2023] [DiffuCom: A novel diffusion model for comment generation](https://www.sciencedirect.com/science/article/abs/pii/S0950705123008195) (Knowledge-Based Systems)
 
 [29 Aug 2023] [ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer](https://arxiv.org/abs/2308.15459) (AAAI 2024)
 
@@ -770,11 +770,11 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.08739)
 
+[26 Jul 2023] [Founding a mathematical diffusion model in linguistics. The case study of German syntactic features in the North-Eastern Italian dialects](https://arxiv.org/abs/2307.14291) (EPJ Plus 2023)
+
 [25 Jul 2023] [XDLM: Cross-lingual Diffusion Language Model for Machine Translation](https://arxiv.org/abs/2307.13560)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.13560)[![Star](https://img.shields.io/github/stars/Amayama/XDLM.svg?style=social&label=Star)](https://github.com/Amayama/XDLM)
-
-[26 Jul 2023] [Founding a mathematical diffusion model in linguistics. The case study of German syntactic features in the North-Eastern Italian dialects](https://arxiv.org/abs/2307.14291) (EPJ Plus 2023)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.14291)
 
