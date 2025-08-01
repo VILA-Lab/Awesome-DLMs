@@ -597,173 +597,227 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Applications
-[26 Jun 2025] [DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation](https://arxiv.org/abs/2506.20639)  
+[26 Jun 2025] [DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation](https://arxiv.org/abs/2506.20639)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.20639) [![Star](https://img.shields.io/github/stars/apple/ml-diffucoder.svg?style=social&label=Star)](https://github.com/apple/ml-diffucoder)
 
-[11 Jun 2025] [Debunk and Infer: Multimodal Fake News Detection via Diffusion-Generated Evidence and LLM Reasoning](https://arxiv.org/abs/2506.21557)  
+[11 Jun 2025] [Debunk and Infer: Multimodal Fake News Detection via Diffusion-Generated Evidence and LLM Reasoning](https://arxiv.org/abs/2506.21557)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.21557)
 
-[25 May 2025] [CFP-Gen: Combinatorial Functional Protein Generation via Diffusion Language Models](https://arxiv.org/abs/2505.22869)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.22869)
+[28 May 2025] [CFP-Gen: Combinatorial Functional Protein Generation via Diffusion Language Models](https://arxiv.org/abs/2505.22869) (ICML 2025)
 
-[27 Feb 2025] [EdiText: Controllable Coarse-to-Fine Text Editing with Diffusion Language Models](https://arxiv.org/abs/2502.19765)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.22869)[![Star](https://img.shields.io/github/stars/yinjunbo/cfpgen.svg?style=social&label=Star)](https://github.com/yinjunbo/cfpgen)
+
+[27 Feb 2025] [EdiText: Controllable Coarse-to-Fine Text Editing with Diffusion Language Models](https://arxiv.org/abs/2502.19765) (ACL 2025)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.19765)
 
-[31 Jan 2025] [TermDiffuSum: A Term-guided Diffusion Model for Extractive Summarization of Legal Documents](https://aclanthology.org/2025.coling-main.216/) (COLING 2025)  
+[31 Jan 2025] [TermDiffuSum: A Term-guided Diffusion Model for Extractive Summarization of Legal Documents](https://aclanthology.org/2025.coling-main.216/) (COLING 2025)
+
 [![Star](https://img.shields.io/github/stars/huaand/TermDiffuSum-.svg?style=social&label=Star)](https://github.com/huaand/TermDiffuSum-)
 
-[Jan 2025] [DiffETM: Diffusion Process Enhanced Embedded Topic Model](https://arxiv.org/abs/2501.00862) (ICASSP 2025)  
+[1 Jan 2025] [DiffETM: Diffusion Process Enhanced Embedded Topic Model](https://arxiv.org/abs/2501.00862) (ICASSP 2025)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2501.00862)
 
-[5 Jan 2025] [DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak](https://arxiv.org/abs/2412.17522)  
+[23 Dec 2024] [DiffusionAttacker: Diffusion-Driven Prompt Manipulation for LLM Jailbreak](https://arxiv.org/abs/2412.17522)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2412.17522)
 
-[5 Nov 2024] [DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models](https://arxiv.org/abs/2411.03250)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.03250)
+[5 Nov 2024] [DiffLM: Controllable Synthetic Data Generation via Diffusion Language Models](https://arxiv.org/abs/2411.03250) (ACL 2025)
 
-[30 Oct 2024] [Private Synthetic Text Generation with Diffusion Models](https://arxiv.org/abs/2410.22971)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.03250) [![Star](https://img.shields.io/github/stars/bytedance/DiffLM.svg?style=social&label=Star)](https://github.com/bytedance/DiffLM)
+
+[30 Oct 2024] [Private Synthetic Text Generation with Diffusion Models](https://arxiv.org/abs/2410.22971) (NAACL 2025)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.22971) [![Star](https://img.shields.io/github/stars/trusthlt/private-synthetic-text-generation.svg?style=social&label=Star)](https://github.com/trusthlt/private-synthetic-text-generation)
 
-[19 Oct 2024] [Text-Guided Multi-Property Molecular Optimization with a Diffusion Language Model](https://arxiv.org/abs/2410.13597)  
+[17 Oct 2024] [Text-Guided Multi-Property Molecular Optimization with a Diffusion Language Model](https://arxiv.org/abs/2410.13597)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13597)
 
-[19 Oct 2024] [DPLM-2: A Multimodal Diffusion Protein Language Model](https://arxiv.org/abs/2410.13782)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13782)
+[17 Oct 2024] [DPLM-2: A Multimodal Diffusion Protein Language Model](https://arxiv.org/abs/2410.13782)
 
-[17 Oct 2024] [Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design](https://arxiv.org/abs/2410.13643)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13782)[![Website](https://img.shields.io/badge/Website-9cf)](https://bytedance.github.io/dplm/dplm-2)[![Star](https://img.shields.io/github/stars/bytedance/dplm.svg?style=social&label=Star)](https://github.com/bytedance/dplm)
+
+[17 Oct 2024] [Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design](https://arxiv.org/abs/2410.13643) (ICLR 2025)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.13643) [![Star](https://img.shields.io/github/stars/ChenyuWang-Monica/DRAKES.svg?style=social&label=Star)](https://github.com/ChenyuWang-Monica/DRAKES)
 
-[10 Oct 2024] [Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction](https://arxiv.org/abs/2410.08134)  
+[10 Oct 2024] [Steering Masked Discrete Diffusion Models via Discrete Denoising Posterior Prediction](https://arxiv.org/abs/2410.08134) (ICLR 2025)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.08134)
 
-[23 Sep 2024] [An Effective Deployment of Diffusion LM for Data Augmentation in Low-Resource Sentiment Classification](https://arxiv.org/abs/2409.03203)  
+[5 Sep 2024] [An Effective Deployment of Diffusion LM for Data Augmentation in Low-Resource Sentiment Classification](https://arxiv.org/abs/2409.03203) (EMNLP 2024)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.03203) [![Star](https://img.shields.io/github/stars/johnnychanv/diffusioncls.svg?style=social&label=Star)](https://github.com/johnnychanv/diffusioncls)
 
-[14 Sep 2024] [Towards Diverse and Efficient Audio Captioning via Diffusion Models](https://arxiv.org/abs/2409.09401)  
+[14 Sep 2024] [Towards Diverse and Efficient Audio Captioning via Diffusion Models](https://arxiv.org/abs/2409.09401) (DAC-Interspeech25)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.09401)
 
-[10 Sep 2024] [Table-to-Text Generation with Pretrained Diffusion Models](https://arxiv.org/abs/2409.13739) (IEEE 2024)  
+[10 Sep 2024] [Table-to-Text Generation with Pretrained Diffusion Models](https://arxiv.org/abs/2409.13739) (IEEE 2024)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2409.13739)
 
-[11 Jul 2024] [DiffusPoll: Conditional Text Diffusion Model for Poll Generation](https://aclanthology.org/2024.findings-acl.54/) (ACL 2024)  
+[11 Jul 2024] [DiffusPoll: Conditional Text Diffusion Model for Poll Generation](https://aclanthology.org/2024.findings-acl.54/) (ACL 2024)
 
-[25 Jun 2024] [Discrete Diffusion Language Model for Long Text Summarization](https://arxiv.org/abs/2407.10998)  
+[![Star](https://img.shields.io/github/stars/bansky-cl/DiffusPoll.svg?style=social&label=Star)](https://github.com/bansky-cl/DiffusPoll)
+
+[25 Jun 2024] [Discrete Diffusion Language Model for Efficient Text Summarization](https://arxiv.org/abs/2407.10998) (NAACL 2025)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.10998)
 
-[21 Jun 2024] [P3Sum: Preserving Author’s Perspective in News Summarization with Diffusion Language Models](https://aclanthology.org/2024.naacl-long.119) (NAACL 2024)  
+[16 Nov 2023] [P^3SUM: Preserving Author's Perspective in News Summarization with Diffusion Language Models](https://arxiv.org/abs/2311.09741) (NAACL 2024)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2311.09741)
 [![Star](https://img.shields.io/github/stars/lyh6560new/P3Sum.svg?style=social&label=Star)](https://github.com/lyh6560new/P3Sum)
 
-[16 Apr 2024] [LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?](https://arxiv.org/abs/2404.10763) (NAACL 2024)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.10763)
+[16 Apr 2024] [LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?](https://arxiv.org/abs/2404.10763) (NAACL 2024)
 
-[13 Apr 2024] [Enforcing Paraphrase Generation via Controllable Latent Diffusion](https://arxiv.org/abs/2404.08938)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.08938)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.10763)[![Star](https://img.shields.io/github/stars/wangyuchi369/LaDiC.svg?style=social&label=Star)](https://github.com/wangyuchi369/LaDiC)
 
-[11 Apr 2024] [DiffusionDialog: A Diffusion Model for Diverse Dialog Generation with Latent Space](https://arxiv.org/abs/2404.06760) (LREC-COLING 2024)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.06760)
+[13 Apr 2024] [Improved Paraphrase Generation via Controllable Latent Diffusion](https://arxiv.org/abs/2404.08938)
 
-[1 Apr 2024] [Diffuwords: A Contrastive Diffusion Model for Lexically Constrained Text Generation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790017) (SSRN 2024 Apr)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.08938)[![Star](https://img.shields.io/github/stars/NJUNLP/ld4pg.svg?style=social&label=Star)](https://github.com/NJUNLP/ld4pg)
+
+[10 Apr 2024] [DiffusionDialog: A Diffusion Model for Diverse Dialog Generation with Latent Space](https://arxiv.org/abs/2404.06760) (LREC-COLING 2024)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2404.06760)[![Star](https://img.shields.io/github/stars/Jxxiang99/DiffusionDialog.svg?style=social&label=Star)](https://github.com/Jxxiang99/DiffusionDialog)
+
+[10 Apr 2024] [Diffuwords: A Contrastive Diffusion Model for Lexically Constrained Text Generation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4790017) (SSRN 2024 Apr)
 
 [28 Mar 2024] [Benchmarking Diffusion Models for Machine Translation](https://aclanthology.org/2024.eacl-srw.25/) (EACL 2024)
 
 [5 Mar 2024] [Improving Iteration-based Non-Autoregressive Language Model With Time Step Awareness](https://www.researchgate.net/publication/379326543_Improving_Iteration-based_Non-Autoregressive_Language_Model_With_Time_Step_Awareness) (ICPADS 2023)
 
-[27 Feb 2024] [DiffuCOMET: Contextual Commonsense Knowledge Diffusion](https://arxiv.org/abs/2402.17011)  
+[26 Feb 2024] [DiffuCOMET: Contextual Commonsense Knowledge Diffusion](https://arxiv.org/abs/2402.17011) (ACL 2024)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.17011) [![Star](https://img.shields.io/github/stars/silin159/diffucomet.svg?style=social&label=Star)](https://github.com/silin159/diffucomet)
 
-[24 Feb 2024] [IPED: An Implicit Perspective for Relational Triple Extraction based on Diffusion Model](https://arxiv.org/abs/2403.00808) (NAACL 2024)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.00808)
+[24 Feb 2024] [IPED: An Implicit Perspective for Relational Triple Extraction based on Diffusion Model](https://arxiv.org/abs/2403.00808) (NAACL 2024)
 
-[23 Feb 2024] [Let's Rectify Step by Step: Improving Aspect-based Sentiment Analysis with Diffusion Models](https://arxiv.org/abs/2402.15289) (LREC-COLING 2024)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2403.00808)[![Star](https://img.shields.io/github/stars/girlsuuu/IPED.svg?style=social&label=Star)](https://github.com/girlsuuu/IPED)
+
+[23 Feb 2024] [Let's Rectify Step by Step: Improving Aspect-based Sentiment Analysis with Diffusion Models](https://arxiv.org/abs/2402.15289) (LREC-COLING 2024)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.15289) [![Star](https://img.shields.io/github/stars/Qlb6x/DiffusionABSA.svg?style=social&label=Star)](https://github.com/Qlb6x/DiffusionABSA)
 
-[23 Feb 2024] [Diffusion Language Models Are Versatile Protein Learners](https://arxiv.org/abs/2402.18567) (ICML 2024)  
+[28 Feb 2024] [Diffusion Language Models Are Versatile Protein Learners](https://arxiv.org/abs/2402.18567) (ICML 2024)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.18567) [![Star](https://img.shields.io/github/stars/bytedance/dplm.svg?style=social&label=Star)](https://github.com/bytedance/dplm)
 
-[20 Feb 2024] [Text-Guided Molecule Generation with Diffusion Language Model](https://arxiv.org/abs/2402.13040)  
+[20 Feb 2024] [Text-Guided Molecule Generation with Diffusion Language Model](https://arxiv.org/abs/2402.13040) (AAAI 2024)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.13040) [![Star](https://img.shields.io/github/stars/Deno-V/tgm-dlm.svg?style=social&label=Star)](https://github.com/Deno-V/tgm-dlm)
 
-[16 Feb 2024] [Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for Machine Translation](https://arxiv.org/abs/2402.10699)  
+[16 Feb 2024] [Rethinking Human-like Translation Strategy: Integrating Drift-Diffusion Model with Large Language Models for Machine Translation](https://arxiv.org/abs/2402.10699)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2402.10699)
 
-[25 Jan 2024] [MDM: Meta diffusion model for hard-constrained text generation](https://www.sciencedirect.com/science/article/abs/pii/S0950705123008973) (Knowledge-Based Systems)
+[11 Jan 2024] [MDM: Meta diffusion model for hard-constrained text generation](https://www.sciencedirect.com/science/article/abs/pii/S0950705123008973) (Knowledge-Based Systems)
 
-[29 Dec 2023] [Diffusion-EXR: Controllable Review Generation for Explainable Recommendation via Diffusion Models](https://arxiv.org/abs/2312.15490)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.15490)
+[24 Dec 2023] [Diffusion-EXR: Controllable Review Generation for Explainable Recommendation via Diffusion Models](https://arxiv.org/abs/2312.15490)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.15490) [![Star](https://img.shields.io/github/stars/qazqwe258/Transformer-Based-Explanation.svg?style=social&label=Star)](https://github.com/qazqwe258/Transformer-Based-Explanation)
 
 [21 Dec 2023] [DiffusionSL: Sequence Labeling via Tag Diffusion Process](https://aclanthology.org/2023.findings-emnlp.860/) (EMNLP 2023)
 
-[19 Dec 2023] [IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition](https://arxiv.org/abs/2312.11923)  
+[19 Dec 2023] [IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition](https://arxiv.org/abs/2312.11923) (IJCV 2025)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.11923)
 
-[12 Dec 2023] [DiffuVST: Narrating Fictional Scenes with Global-History-Guided Denoising Models](https://arxiv.org/abs/2312.07066) (EMNLP 2023)  
+[12 Dec 2023] [DiffuVST: Narrating Fictional Scenes with Global-History-Guided Denoising Models](https://arxiv.org/abs/2312.07066) (EMNLP 2023)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.07066)
 
-[1 Nov 2023] [CodeFusion: A Pre-trained Diffusion Model for Code Generation](https://arxiv.org/abs/2310.17680)  
+[26 Oct 2023] [CodeFusion: A Pre-trained Diffusion Model for Code Generation](https://arxiv.org/abs/2310.17680) (EMNLP 2023)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.17680)
 
 [31 Oct 2023] [LADIDA: Latent Diffusion for Document Generation with Sequential Decoding](https://neurips.cc/virtual/2023/74876) (NeurIPS Workshop 2023)  
 
-[26 Oct 2023] [Context-Aware Prompt for Generation-based Event Argument Extraction with Diffusion Models](https://dl.acm.org/doi/abs/10.1145/3583780.3614820) (CIKM 2023)
+[21 Oct 2023] [Context-Aware Prompt for Generation-based Event Argument Extraction with Diffusion Models](https://dl.acm.org/doi/abs/10.1145/3583780.3614820) (CIKM 2023)
 
-[26 Oct 2023] [DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation](https://arxiv.org/abs/2310.17570)  
+[26 Oct 2023] [DiffS2UT: A Semantic Preserving Diffusion Model for Textless Direct Speech-to-Speech Translation](https://arxiv.org/abs/2310.17570) (EMNLP 2023)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.17570)
 
-[24 Oct 2023] [ScanDL: A Diffusion Model for Generating Synthetic Scanpaths on Texts](https://arxiv.org/abs/2310.15587)  
+[24 Oct 2023] [ScanDL: A Diffusion Model for Generating Synthetic Scanpaths on Texts](https://arxiv.org/abs/2310.15587) (EMNLP 2023)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.15587) [![Star](https://img.shields.io/github/stars/dili-lab/scandl.svg?style=social&label=Star)](https://github.com/dili-lab/scandl)
 
 [23 Oct 2023] [DiffusionRet: Diffusion-Enhanced Generative Retriever using Constrained Decoding](https://aclanthology.org/2023.findings-emnlp.638/) (EMNLP 2023)
 
-[23 Oct 2023] [DeTiME: Diffusion-Enhanced Topic Modeling using Encoder-decoder based LLM](https://arxiv.org/abs/2310.15296) (EMNLP 2023)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.15296)
+[![Star](https://img.shields.io/github/stars/jpthu17/DiffusionRet.svg?style=social&label=Star)](https://github.com/jpthu17/DiffusionRet)
 
-[16 Oct 2023] [ForceGen: End-to-end de novo protein generation based on nonlinear mechanical unfolding responses using a protein language diffusion model](https://arxiv.org/abs/2310.10605)  
+[23 Oct 2023] [DeTiME: Diffusion-Enhanced Topic Modeling using Encoder-decoder based LLM](https://arxiv.org/abs/2310.15296) (EMNLP 2023)  
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.15296)[![Star](https://img.shields.io/github/stars/amazon-science/text_generation_diffusion_llm_topic.svg?style=social&label=Star)](https://github.com/amazon-science/text_generation_diffusion_llm_topic)
+
+[16 Oct 2023] [ForceGen: End-to-end de novo protein generation based on nonlinear mechanical unfolding responses using a protein language diffusion model](https://arxiv.org/abs/2310.10605) (ScienceAdvances)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.10605)
 
-[1 Oct 2023] [DiffuCom: A novel diffusion model for comment generation](https://www.sciencedirect.com/science/article/abs/pii/S0950705123008195) (Knowledge-Based Systems)
+[3 Dec 2023] [DiffuCom: A novel diffusion model for comment generation](https://www.sciencedirect.com/science/article/abs/pii/S0950705123008195) (Knowledge-Based Systems)
 
-[4 Sep 2023] [ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer](https://arxiv.org/abs/2308.15459)  
+[29 Aug 2023] [ParaGuide: Guided Diffusion Paraphrasers for Plug-and-Play Textual Style Transfer](https://arxiv.org/abs/2308.15459) (AAAI 2024)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.15459) [![Star](https://img.shields.io/github/stars/zacharyhorvitz/ParaGuide.svg?style=social&label=Star)](https://github.com/zacharyhorvitz/ParaGuide)
 
-[17 Aug 2023] [Enhancing Phrase Representation by Information Bottleneck Guided Text Diffusion Process for Keyphrase Extraction](https://arxiv.org/abs/2308.08739)  
+[17 Aug 2023] [Enhancing Phrase Representation by Information Bottleneck Guided Text Diffusion Process for Keyphrase Extraction](https://arxiv.org/abs/2308.08739) (LREC-COLING 2024)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.08739)
 
-[31 Jul 2023] [XDLM: Cross-lingual Diffusion Language Model for Machine Translation](https://arxiv.org/abs/2307.13560)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.13560)
+[25 Jul 2023] [XDLM: Cross-lingual Diffusion Language Model for Machine Translation](https://arxiv.org/abs/2307.13560)
 
-[26 Jul 2023] [Founding a mathematical diffusion model in linguistics. The case study of German syntactic features in the North-Eastern Italian dialects](https://arxiv.org/abs/2307.14291)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.13560)[![Star](https://img.shields.io/github/stars/Amayama/XDLM.svg?style=social&label=Star)](https://github.com/Amayama/XDLM)
+
+[26 Jul 2023] [Founding a mathematical diffusion model in linguistics. The case study of German syntactic features in the North-Eastern Italian dialects](https://arxiv.org/abs/2307.14291) (EPJ Plus 2023)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.14291)
 
 [9 Jul 2023] [Controllable Conversation Generation with Conversation Structures via Diffusion Models](https://aclanthology.org/2023.findings-acl.454/) (ACL 2023)
 
-[15 Jun 2023] [PoetryDiffusion: Towards Joint Semantic and Metrical Manipulation in Poetry Generation](https://arxiv.org/abs/2306.08456) (AAAI 2024)  
+[14 Jun 2023] [PoetryDiffusion: Towards Joint Semantic and Metrical Manipulation in Poetry Generation](https://arxiv.org/abs/2306.08456) (AAAI 2024)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.08456)
 
-[14 Jun 2023] [DiffuDetox: A Mixed Diffusion Model for Text Detoxification](https://arxiv.org/abs/2306.08505)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.08505)
+[14 Jun 2023] [DiffuDetox: A Mixed Diffusion Model for Text Detoxification](https://arxiv.org/abs/2306.08505) (ACL 2023)
 
-[5 Jun 2023] [PLANNER: Generating Diversified Paragraph via Latent Language Diffusion Model](https://arxiv.org/abs/2306.02531)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.02531)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.08505)[![Star](https://img.shields.io/github/stars/D3Mlab/diffu-detox.svg?style=social&label=Star)](https://github.com/D3Mlab/diffu-detox)
 
-[2 Jun 2023] [DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation](https://arxiv.org/abs/2306.01657)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.01657)
+[5 Jun 2023] [PLANNER: Generating Diversified Paragraph via Latent Language Diffusion Model](https://arxiv.org/abs/2306.02531) (NeurIPS 2023)
 
-[31 May 2023] [Fine-grained Text Style Transfer with Diffusion-Based Language Models](https://arxiv.org/abs/2305.19512) (RepL4NLP 2023)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.02531)[![Star](https://img.shields.io/github/stars/apple/ml-planner.svg?style=social&label=Star)](https://github.com/apple/ml-planner)
+
+[2 Jun 2023] [DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation](https://arxiv.org/abs/2306.01657) (ACL 2023)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2306.01657)[![Star](https://img.shields.io/github/stars/surika/DiffusEmp.svg?style=social&label=Star)](https://github.com/surika/DiffusEmp)
+
+[31 May 2023] [Fine-grained Text Style Transfer with Diffusion-Based Language Models](https://arxiv.org/abs/2305.19512) (RepL4NLP 2023)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.19512) [![Star](https://img.shields.io/github/stars/lvyiwei1/diffuseq_styleptb.svg?style=social&label=Star)](https://github.com/lvyiwei1/diffuseq_styleptb)
 
-[29 May 2023] [Protein Design with Guided Discrete Diffusion](https://arxiv.org/abs/2305.20009) (NeurIPS 2023)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.20009)
+[31 May 2023] [Protein Design with Guided Discrete Diffusion](https://arxiv.org/abs/2305.20009) (NeurIPS 2023)
 
-[22 May 2023] [Dior-CVAE: Pre-trained Language Models and Diffusion Priors for Variational Dialog Generation](https://arxiv.org/abs/2305.15025) (EMNLP 2023)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.15025)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.20009)[![Star](https://img.shields.io/github/stars/ngruver/NOS.svg?style=social&label=Star)](https://github.com/ngruver/NOS)
 
-[22 May 2023] [DiffusionNER: Boundary Diffusion for Named Entity Recognition](https://arxiv.org/abs/2305.13298) (ACL 2023)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13298)
+[22 May 2023] [Dior-CVAE: Pre-trained Language Models and Diffusion Priors for Variational Dialog Generation](https://arxiv.org/abs/2305.15025) (EMNLP 2023)
 
-[2 May 2023] [DiffuSum: Generation Enhanced Extractive Summarization with Diffusion](https://arxiv.org/abs/2305.01735) (ACL 2023)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.01735)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.15025)[![Star](https://img.shields.io/github/stars/UKPLab/dior-cvae.svg?style=social&label=Star)](https://github.com/UKPLab/dior-cvae)
 
-[9 Jan 2023] [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514)  
+[22 May 2023] [DiffusionNER: Boundary Diffusion for Named Entity Recognition](https://arxiv.org/abs/2305.13298) (ACL 2023)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13298)[![Star](https://img.shields.io/github/stars/tricktreat/DiffusionNER.svg?style=social&label=Star)](https://github.com/tricktreat/DiffusionNER)
+
+[2 May 2023] [DiffuSum: Generation Enhanced Extractive Summarization with Diffusion](https://arxiv.org/abs/2305.01735) (ACL 2023)
+
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.01735)[![Star](https://img.shields.io/github/stars/hpzhang94/DiffuSum.svg?style=social&label=Star)](https://github.com/hpzhang94/DiffuSum)
+
+[7 Jan 2023] [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514)
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.03514)
 
 ## Resources
