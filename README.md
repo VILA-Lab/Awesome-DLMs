@@ -498,7 +498,8 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [![Star](https://img.shields.io/github/stars/aistairc/text-diff-2step-loss.svg?style=social&label=Star)](https://github.com/aistairc/text-diff-2step-loss)
 
-[23 Oct 2024] [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://arxiv.org/abs/2410.17891) (ICLR 2025)  
+[23 Oct 2024] [Scaling Diffusion Language Models via Adaptation from Autoregressive Models](https://arxiv.org/abs/2410.17891) (ICLR 2025) 
+
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.17891) [![Star](https://img.shields.io/github/stars/hkunlp/diffullama.svg?style=social&label=Star)](https://github.com/hkunlp/diffullama)
 
 [17 Oct 2024] [Fine-Tuning Discrete Diffusion Models via Reward Optimization with Applications to DNA and Protein Design](https://arxiv.org/abs/2410.13643) (ICLR 2025)
