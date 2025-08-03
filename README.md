@@ -105,7 +105,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.14429)
 [![Star](https://img.shields.io/github/stars/OpenMOSS/LongLLaDA.svg?style=social&label=Star)](https://github.com/OpenMOSS/LongLLaDA)
 
-[12 Jun 2025] [The Diffusion Duality](https://arxiv.org/abs/2506.10892)(ICML 2025)  
+[12 Jun 2025] [The Diffusion Duality](https://arxiv.org/abs/2506.10892) (ICML 2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10892)[![Website](https://img.shields.io/badge/Website-9cf)](https://s-sahoo.com/duo/) [![Star](https://img.shields.io/github/stars/s-sahoo/duo.svg?style=social&label=Star)](https://github.com/s-sahoo/duo)
 
 [2 Jun 2025] [Esoteric Language Models](https://arxiv.org/abs/2506.01928)
