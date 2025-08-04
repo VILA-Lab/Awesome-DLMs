@@ -603,7 +603,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [3 Jun 2024] [Unlocking Guidance for Discrete State-Space Diffusion and Flow Models](https://arxiv.org/abs/2406.01572) (ICLR 2025)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.01572) [![Star](https://img.shields.io/github/stars/hnisonoff/discrete_guidance.svg?style=social&label=Star)](https://github.com/hnisonoff/discrete_guidance)
 
-[09 Oct 2023] [DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models] (https://arxiv.org/abs/2310.05793) (EMNLP 2023)<br>
+[09 Oct 2023] [DiffuSeq-v2: Bridging Discrete and Continuous Text Spaces for Accelerated Seq2Seq Diffusion Models](https://arxiv.org/abs/2310.05793) (EMNLP 2023)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.05793) [![Star](https://img.shields.io/github/stars/Shark-NLP/DiffuSeq.svg?style=social&label=Star)](https://github.com/Shark-NLP/DiffuSeq)
 
 [24 May 2023] [David helps Goliath: Inference-Time Collaboration Between Small Specialized and Large General Diffusion LMs](https://arxiv.org/abs/2305.14771) (NAACL 2024)<br>
