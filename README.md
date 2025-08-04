@@ -19,7 +19,7 @@
 
 
 ## Playground
-- [Mecury](https://chat.inceptionlabs.ai/) [![Static Badge](https://img.shields.io/badge/📰-Demo-green)](https://chat.inceptionlabs.ai/)
+- [Mercury](https://chat.inceptionlabs.ai/) [![Static Badge](https://img.shields.io/badge/📰-Demo-green)](https://chat.inceptionlabs.ai/)
 
 - [LLaDA](https://huggingface.co/spaces/multimodalart/LLaDA) [![deploy](https://img.shields.io/badge/Hugging%20Face-Demo-yellow)](https://huggingface.co/spaces/multimodalart/LLaDA)
 
@@ -813,6 +813,6 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [Gemini Diffusion](https://deepmind.google/models/gemini-diffusion/)
 
-[Mecury](https://www.inceptionlabs.ai/introducing-mercury) 
+[Mercury](https://www.inceptionlabs.ai/introducing-mercury) 
 [![Arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.17298)
 
