@@ -822,12 +822,10 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.13298)[![Star](https://img.shields.io/github/stars/tricktreat/DiffusionNER.svg?style=social&label=Star)](https://github.com/tricktreat/DiffusionNER)
 
-[2 May 2023] [DiffuSum: Generation Enhanced Extractive Summarization with Diffusion](https://arxiv.org/abs/2305.01735) (ACL 2023)
-
+[2 May 2023] [DiffuSum: Generation Enhanced Extractive Summarization with Diffusion](https://arxiv.org/abs/2305.01735) (ACL 2023)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.01735)[![Star](https://img.shields.io/github/stars/hpzhang94/DiffuSum.svg?style=social&label=Star)](https://github.com/hpzhang94/DiffuSum)
 
-[7 Jan 2023] [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514)
-
+[7 Jan 2023] [ROIC-DM: Robust Text Inference and Classification via Diffusion Model](https://arxiv.org/abs/2401.03514)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.03514)
 
 ## Resources
