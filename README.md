@@ -707,7 +707,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [11 Jan 2024] [MDM: Meta diffusion model for hard-constrained text generation](https://www.sciencedirect.com/science/article/abs/pii/S0950705123008973) (Knowledge-Based Systems)
 
-[21 Dec 2023] [DiffusionSL: Sequence Labeling via Tag Diffusion Process](https://aclanthology.org/2023.findings-emnlp.860/) (EMNLP 2023)
+[Dec 2023] [DiffusionSL: Sequence Labeling via Tag Diffusion Process](https://aclanthology.org/2023.findings-emnlp.860/) (EMNLP 2023)
 
 [19 Dec 2023] [IPAD: Iterative, Parallel, and Diffusion-based Network for Scene Text Recognition](https://arxiv.org/abs/2312.11923) (IJCV 2025)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2312.11923)
@@ -748,9 +748,6 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [17 Aug 2023] [Enhancing Phrase Representation by Information Bottleneck Guided Text Diffusion Process for Keyphrase Extraction](https://arxiv.org/abs/2308.08739) (LREC-COLING 2024)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.08739)
-
-[26 Jul 2023] [Founding a mathematical diffusion model in linguistics. The case study of German syntactic features in the North-Eastern Italian dialects](https://arxiv.org/abs/2307.14291) (EPJ Plus 2023)<br>
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.14291)
 
 [25 Jul 2023] [XDLM: Cross-lingual Diffusion Language Model for Machine Translation](https://arxiv.org/abs/2307.13560)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2307.13560)
