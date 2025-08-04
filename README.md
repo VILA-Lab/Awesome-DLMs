@@ -575,7 +575,8 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [12 Aug 2024] [Speculative Diffusion Decoding: Accelerating Language Generation through Diffusion](https://arxiv.org/abs/2408.05636) (NAACL 2025)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.05636)
 
-[May 2024] [Few-shot Temporal Pruning Accelerates Diffusion Models for Text Generation](https://aclanthology.org/2024.lrec-main.637/) (LREC-COLING 2024)
+[May 2024] [Few-shot Temporal Pruning Accelerates Diffusion Models for Text Generation](https://aclanthology.org/2024.lrec-main.637/) (LREC-COLING 2024)<br>
+[![Anthology](https://img.shields.io/badge/Anthology-000000.svg)](https://aclanthology.org/2024.lrec-main.637/)
 
 [15 Mar 2024] [Utilizing Latent Diffusion Model to Accelerate Sampling Speed and Enhance Text Generation Quality](https://www.mdpi.com/2079-9292/13/6/1093)
 
@@ -591,7 +592,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [24 May 2023] [David helps Goliath: Inference-Time Collaboration Between Small Specialized and Large General Diffusion LMs](https://arxiv.org/abs/2305.14771)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.14771)
 
-[18 May 2023] [Diffusion Language Models Generation Can Be Halted Early](https://arxiv.org/abs/2305.10818)<br>  
+[18 May 2023] [Diffusion Language Models Generation Can Be Halted Early](https://arxiv.org/abs/2305.10818)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10818)
 
 
