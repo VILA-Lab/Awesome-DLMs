@@ -102,7 +102,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [25 Jul 2025] [Jailbreaking Large Language Diffusion Models: Revealing Hidden Safety Flaws in Diffusion-Based Text Generation](https://arxiv.org/abs/2507.19227v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.19227v1)
 
-[15 Jul 2025] [The Devil behind the mask: An emergent safety vulnerability of Diffusion LLMs]([https://arxiv.org/abs/2006.11239](https://arxiv.org/abs/2507.11097v1))<br>
+[15 Jul 2025] [The Devil behind the mask: An emergent safety vulnerability of Diffusion LLMs](https://arxiv.org/abs/2507.11097v1))<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.11097v1)
 [![Star](https://img.shields.io/github/stars/hojonathanho/diffusion.svg?style=social&label=Star)](https://github.com/hojonathanho/diffusion)
 
