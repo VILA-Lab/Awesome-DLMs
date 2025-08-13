@@ -296,6 +296,9 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Continuous DLMs
+[25 Jul 2025] [Arg-LLaDA: Argument Summarization via Large Language Diffusion Models and Sufficiency-Aware Refinement](https://arxiv.org/abs/2507.19081v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.19081v1)
+
 [26 Jun 2025] [Compressed and Smooth Latent Space for Text Diffusion Modeling](https://arxiv.org/abs/2506.21170)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.21170)
 
@@ -305,6 +308,9 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [24 May 2025] [Smoothie: Smoothing Diffusion on Token Embeddings for Text Generation](https://arxiv.org/abs/2505.18853)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.18853)
 [![Star](https://img.shields.io/github/stars/ashaba1in/smoothie.svg?style=social&label=Star)](https://github.com/ashaba1in/smoothie)
+
+[20 Apr 2025] [Perfect diffusion is TC^0 -- Bad diffusion is Turing-complete](https://arxiv.org/abs/2507.12469)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.12469)
 
 [19 Feb 2025] [TESS 2: A Large-Scale Generalist Diffusion Language Model](https://arxiv.org/abs/2502.13917)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.13917)
