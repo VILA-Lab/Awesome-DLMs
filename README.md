@@ -130,6 +130,10 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://s-sahoo.com/duo/)
 [![Star](https://img.shields.io/github/stars/s-sahoo/duo.svg?style=social&label=Star)](https://github.com/s-sahoo/duo)
 
+[12 Jun 2025] [Accelerating Diffusion Large Language Models with SlowFast Sampling: The Three Golden Principles](https://arxiv.org/abs/2506.10848)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.10848)
+[![Star](https://img.shields.io/github/stars/LiangrunFlora/Slow-Fast-Sampling.svg?style=social&label=Star)](https://github.com/LiangrunFlora/Slow-Fast-Sampling)
+
 [2 Jun 2025] [Esoteric Language Models](https://arxiv.org/abs/2506.01928)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.01928)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://s-sahoo.com/Eso-LMs/)
