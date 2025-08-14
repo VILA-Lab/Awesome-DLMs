@@ -165,7 +165,6 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [12 Mar 2025] [Constrained Discrete Diffusion](https://arxiv.org/abs/2503.09790)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09790)
 
-
 [12 Mar 2025] [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2503.09573) (ICLR 2025)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09573)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://m-arriola.com/bd3lms)
@@ -248,7 +247,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [30 Jan 2024] [Transfer Learning for Text Diffusion Models](https://arxiv.org/abs/2401.17181)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.17181)
 
-[25 Oct 2023] (SEDD) [Discrete Diffusion Language Modeling by Estimating the Ratios of the Data Distribution](https://arxiv.org/abs/2310.16834) (ICML 2024)<br>
+[25 Oct 2023] (SEDD) [Discrete Diffusion Modeling by Estimating the Ratios of the Data Distribution](https://arxiv.org/abs/2310.16834) (ICML 2024)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2310.16834)
 [![Star](https://img.shields.io/github/stars/louaaron/Score-Entropy-Discrete-Diffusion.svg?style=social&label=Star)](https://github.com/louaaron/Score-Entropy-Discrete-Diffusion)
 
@@ -563,6 +562,10 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [27 May 2025] [Accelerating Diffusion Language Model Inference via Efficient KV Caching and Guided Diffusion](https://arxiv.org/abs/2505.21467)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.21467)
 
+[26 May 2025] [Adaptive Classifier-Free Guidance via Dynamic Low-Confidence Masking](https://arxiv.org/abs/2505.20199)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.20199)
+[![Star](https://img.shields.io/github/stars/pixeli99/A-CFG.svg?style=social&label=Star)](https://github.com/pixeli99/A-CFG)
+
 [22 May 2025] [Dimple: Discrete Diffusion Multimodal Large Language Model with Parallel Decoding](https://arxiv.org/abs/2505.16990)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.16990)
 [![Star](https://img.shields.io/github/stars/yu-rp/Dimple.svg?style=social&label=Star)](https://github.com/yu-rp/Dimple) 
@@ -624,6 +627,9 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.20639)
 [![Star](https://img.shields.io/github/stars/apple/ml-diffucoder.svg?style=social&label=Star)](https://github.com/apple/ml-diffucoder)
 
+[17 Jun 2025] [Mercury: Ultra-Fast Language Models Based on Diffusion](https://arxiv.org/abs/2506.17298)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.17298)
+
 [16 Jun 2025] [Flexible-length Text Infilling for Discrete Diffusion Models](https://arxiv.org/abs/2506.13579)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.13579)
 
@@ -633,6 +639,9 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [28 May 2025] [CFP-Gen: Combinatorial Functional Protein Generation via Diffusion Language Models](https://arxiv.org/abs/2505.22869) (ICML 2025)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.22869)
 [![Star](https://img.shields.io/github/stars/yinjunbo/cfpgen.svg?style=social&label=Star)](https://github.com/yinjunbo/cfpgen)
+
+[14 May 2025] [Gemini Diffusion](https://deepmind.google/models/gemini-diffusion)<br>
+[![Website](https://img.shields.io/badge/Website-9cf)](https://deepmind.google/models/gemini-diffusion)
 
 [27 Feb 2025] [EdiText: Controllable Coarse-to-Fine Text Editing with Diffusion Language Models](https://arxiv.org/abs/2502.19765) (ACL 2025)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.19765)
