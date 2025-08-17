@@ -8,8 +8,6 @@ This figure highlights key milestones in the development of DLMs, categorized in
 
 ![Timeline of Diffusion Language Models](timeline2.jpg)
 
-*Figure 1: A timeline visualization of diffusion language models (dLLMs), showing their evolution across different research stages and representative systems.
-
 ## Table of Contents
 - [Playground](#playground)
 - [Must-Read](#must-read)
