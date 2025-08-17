@@ -1,7 +1,7 @@
 # Awesome Diffusion Language Models 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![](https://img.shields.io/github/last-commit/VILA-Lab/Awesome-DLMs?color=green)
-![https://arxiv.org/abs/2508.10875](https://img.shields.io/badge/2508.10875-Arxiv-red?logo=arxiv&logoColor=red)
+[![https://arxiv.org/abs/2508.10875](https://img.shields.io/badge/2508.10875-Arxiv-red?logo=arxiv&logoColor=red)](https://arxiv.org/abs/2508.10875)
 
 ## Timeline of Diffusion Language Models
 
