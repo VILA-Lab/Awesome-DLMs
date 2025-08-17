@@ -3,6 +3,12 @@
 ![](https://img.shields.io/github/last-commit/VILA-Lab/Awesome-DLMs?color=green)
 ![https://arxiv.org/abs/2508.10875](https://img.shields.io/badge/2508.10875-Arxiv-red?logo=arxiv&logoColor=red)
 
+## Timeline of Diffusion Language Models
+
+This figure highlights key milestones in the development of DLMs, categorized into three groups: continuous DLMs, discrete DLMs, and recent multimodal DLMs.  We observe that while early research predominantly focused on continuous DLMs, discrete DLMs have gained increasing popularity in more recent years. 
+
+![Timeline of Diffusion Language Models](timeline2.jpg)
+
 ## Table of Contents
 - [Playground](#playground)
 - [Must-Read](#must-read)
