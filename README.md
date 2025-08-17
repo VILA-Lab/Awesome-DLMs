@@ -882,3 +882,16 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [Mercury](https://www.inceptionlabs.ai/introducing-mercury) 
 [![Arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.17298)
 
+
+## Citation
+```
+@misc{li2025surveydiffusionlanguagemodels,
+      title={A Survey on Diffusion Language Models}, 
+      author={Tianyi Li and Mingda Chen and Bowei Guo and Zhiqiang Shen},
+      year={2025},
+      eprint={2508.10875},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2508.10875}, 
+}
+```
