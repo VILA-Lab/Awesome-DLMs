@@ -2,6 +2,8 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![](https://img.shields.io/github/last-commit/VILA-Lab/Awesome-DLMs?color=green)
 
+![Timeline](timeline2.jpg)
+
 ## Table of Contents
 - [Playground](#playground)
 - [Must-Read](#must-read)
