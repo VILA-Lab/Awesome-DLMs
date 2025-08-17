@@ -887,7 +887,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 ```
 @article{li2025survey,
   title={A Survey on Diffusion Language Models},
-  author={Li, Tianyi and Chen Mingda and Guo, Bowei and Shen Zhiqiang},
+  author={Li, Tianyi and Chen, Mingda and Guo, Bowei and Shen, Zhiqiang},
   journal={arXiv preprint arXiv:2508.10875},
   year={2025}
 }
