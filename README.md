@@ -58,6 +58,10 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 ## Surveys
 <!-- add ours here! -->
+[12 Aug 2025] [A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models](https://arxiv.org/abs/2508.08712v2)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.08712v2)
+[![Star](https://img.shields.io/github/stars/zhanglingzhe0820/Awesome-Parallel-Text-Generation.svg?style=social&label=Star)](https://github.com/zhanglingzhe0820/Awesome-Parallel-Text-Generation)
+
 [16 Jun 2025] [Discrete Diffusion in Large Language and Multimodal Models: A Survey](https://arxiv.org/abs/2506.13759)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.13759)
 [![Star](https://img.shields.io/github/stars/LiQiiiii/DLLM-Survey.svg?style=social&label=Star)](https://github.com/LiQiiiii/DLLM-Survey)
