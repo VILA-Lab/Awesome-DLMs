@@ -10,19 +10,17 @@ This figure highlights key milestones in the development of DLMs, categorized in
 ![Timeline of Diffusion Language Models](timeline2.jpg)
 
 ## Table of Contents
-- [Playground](#playground)
-- [Must-Read](#must-read)
-- [Surveys](#surveys)
-- [Diffusion Foundation](#diffusion-foundation)
-    <!-- tocheck -->
-- [Discrete DLMs](#discrete-dlms)   
-- [Continuous DLMs](#continuous-dlms)
-- [Multimodal DLMs](#multimodal-dlms)
-- [Training Strategies](#training-strategies)
-- [Inference Optimization](#inference-optimization)
-- [Applications](#applications)
-    <!-- tocheck -->
-- [Resources](#resources)
+- [🎮 Playground](#playground)
+- [🔥 Must-Read](#must-read)
+- [📜 Surveys](#surveys)
+- [🧱 Diffusion Foundation](#diffusion-foundation)
+- [🎲 Discrete DLMs](#discrete-dlms)   
+- [🌊 Continuous DLMs](#continuous-dlms)
+- [🖼️ Multimodal DLMs](#multimodal-dlms)
+- [🎯 Training Strategies](#training-strategies)
+- [🚀 Inference Optimization](#inference-optimization)
+- [💡 Applications](#applications)
+- [🔗 Resources](#resources)
 
 
 ## Playground
@@ -57,7 +55,6 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Surveys
-<!-- add ours here! -->
 [12 Aug 2025] [A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models](https://arxiv.org/abs/2508.08712v2)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.08712v2)
 [![Star](https://img.shields.io/github/stars/zhanglingzhe0820/Awesome-Parallel-Text-Generation.svg?style=social&label=Star)](https://github.com/zhanglingzhe0820/Awesome-Parallel-Text-Generation)
