@@ -888,6 +888,8 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![Arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.17298)
 
 
+[![Star History Chart](https://api.star-history.com/svg?repos=VILA-Lab/Awesome-DLMs&type=Date)](https://www.star-history.com/#VILA-Lab/Awesome-DLMs&Date)
+
 ## Citation
 ```
 @article{li2025survey,
@@ -897,3 +899,6 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
   year={2025}
 }
 ```
+
+
+
