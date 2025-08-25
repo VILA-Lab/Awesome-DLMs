@@ -538,6 +538,10 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Inference Optimization
+[20 Aug 2025] [Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs](https://arxiv.org/abs/2508.14896)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.14896) 
+
+
 [8 Aug 2025] [Diffusion LLMs Can Do Faster-Than-AR Inference via Discrete Diffusion Forcing](https://www.arxiv.org/abs/2508.09192)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.09192) 
 [![Star](https://img.shields.io/github/stars/zhijie-group/Discrete-Diffusion-Forcing.svg?style=social&label=Star)](https://github.com/zhijie-group/Discrete-Diffusion-Forcing)
