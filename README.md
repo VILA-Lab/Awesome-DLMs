@@ -107,6 +107,18 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Discrete DLMs
+[5 Sep 2025] [Masked Diffusion Language Models with Frequency-Informed Training](https://arxiv.org/abs/2509.05056v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.05056v1)
+
+[1 Sep 2025] [Dream-Coder 7B: An Open Diffusion Language Model for Code](https://arxiv.org/abs/2509.01142v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.01142v1)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://hkunlp.github.io/blog/2025/dream-coder/)
+[![Star](https://img.shields.io/github/stars/DreamLM/Dream-Coder.svg?style=social&label=Star)](https://github.com/DreamLM/Dream-Coder)
+
+[17 Aug 2025] [Where to Start Alignment? Diffusion Large Language Model May Demand a Distinct Position](https://arxiv.org/abs/2508.12398v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.12398v1)
+
+
 [12 Aug 2025] [Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language Models](https://arxiv.org/abs/2508.09138v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.09138v1)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://aim-uofa.github.io/dLLM-MidTruth/)
@@ -115,8 +127,13 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.02193v1)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://seed.bytedance.com/seed_diffusion)
 
+
 [25 Jul 2025] [Jailbreaking Large Language Diffusion Models: Revealing Hidden Safety Flaws in Diffusion-Based Text Generation](https://arxiv.org/abs/2507.19227v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.19227v1)
+
+[15 Jul 2025] [DreamOn: Diffusion Language Models For Code Infilling Beyond Fixed-Size Canvas](https://hkunlp.github.io/blog/2025/dreamon/)<br>
+[![Website](https://img.shields.io/badge/Website-9cf)](https://hkunlp.github.io/blog/2025/dreamon/)
+[![Star](https://img.shields.io/github/stars/DreamLM/DreamOn.svg?style=social&label=Star)](https://github.com/DreamLM/DreamOn)
 
 [15 Jul 2025] [The Devil behind the mask: An emergent safety vulnerability of Diffusion LLMs](https://arxiv.org/abs/2507.11097v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.11097v1)
@@ -250,7 +267,7 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [22 Jul 2024] [Discrete Flow Matching](https://arxiv.org/abs/2407.15595) (NeurIPS 2024)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2407.15595)
 
-[10 Jul 2024][Promises, Outlooks and Challenges of Diffusion Language Modeling](https://arxiv.org/abs/2406.11473)<br>
+[10 Jul 2024] [Promises, Outlooks and Challenges of Diffusion Language Modeling](https://arxiv.org/abs/2406.11473)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2406.11473)
 
 [11 Jun 2024] (MDLM) [Simple and Effective Masked Diffusion Language Models](https://arxiv.org/abs/2406.07524) (NeurIPS 2024)<br>
@@ -315,8 +332,6 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Continuous DLMs
-[25 Jul 2025] [Arg-LLaDA: Argument Summarization via Large Language Diffusion Models and Sufficiency-Aware Refinement](https://arxiv.org/abs/2507.19081v1)<br>
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.19081v1)
 
 [26 Jun 2025] [Compressed and Smooth Latent Space for Text Diffusion Modeling](https://arxiv.org/abs/2506.21170)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.21170)
@@ -443,6 +458,9 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Multimodal DLMs
+[9 Sep 2025] [Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding](https://synbol.github.io/Lumina-DiMOO/)<br>
+[![Website](https://img.shields.io/badge/Website-9cf)](https://synbol.github.io/Lumina-DiMOO/)
+[![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-DiMOO.svg?style=social&label=Star)](https://github.com/Alpha-VLLM/Lumina-DiMOO)
 
 [29 May 2025] [Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model](https://arxiv.org/abs/2505.23606)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.23606)
@@ -480,6 +498,17 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Training Strategies
+[8 Sep 2025] [Revolutionizing Reinforcement Learning Framework for Diffusion Large Language Models](https://arxiv.org/abs/2509.06949v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.06949v1)
+[![Star](https://img.shields.io/github/stars/Gen-Verse/dLLM-RL.svg?style=social&label=Star)](https://github.com/Gen-Verse/dLLM-RL)
+
+[7 Sep 2025] [BranchGRPO: Stable and Efficient GRPO with Structured Branching in Diffusion Models](https://arxiv.org/abs/2509.06040)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.06040)
+
+[27 Aug 2025] [Blockwise SFT for Diffusion Language Models: Reconciling Bidirectional Attention and Autoregressive Decoding](https://arxiv.org/abs/2508.19529v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.19529v1)
+[![Star](https://img.shields.io/github/stars/Bowen-Sun-0728/Blockwise-SFT.svg?style=social&label=Star)](https://github.com/Bowen-Sun-0728/Blockwise-SFT)
+
 [7 Jul 2025] [wd1: Weighted Policy Optimization for Reasoning in Diffusion Language Models](https://arxiv.org/abs/2507.08838)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.08838) 
 [![Star](https://img.shields.io/github/stars/xiaohangt/wd1.svg?style=social&label=Star)](https://github.com/xiaohangt/wd1)
@@ -538,8 +567,26 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Inference Optimization
+[31 Aug 2025] [Reward-Weighted Sampling: Enhancing Non-Autoregressive Characteristics in Masked Diffusion LLMs](https://arxiv.org/abs/2509.00707v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.00707v1)
+
+[27 Aug 2025] [Diffusion Language Models Know the Answer Before Decoding](https://arxiv.org/abs/2508.19982v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.19982v1)
+[![Star](https://img.shields.io/github/stars/pixeli99/Prophet.svg?style=social&label=Star)](https://github.com/pixeli99/Prophet)
+
 [20 Aug 2025] [Quantization Meets dLLMs: A Systematic Study of Post-training Quantization for Diffusion LLMs](https://arxiv.org/abs/2508.14896)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.14896) 
+
+[19 Aug 2025] [DPad: Efficient Diffusion Language Models with Suffix Dropout](https://arxiv.org/abs/2508.14148v2)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.14148v2)
+[![Star](https://img.shields.io/github/stars/Crys-Chen/DPad.svg?style=social&label=Star)](https://github.com/Crys-Chen/DPad)
+
+[18 Aug 2025] [PC-Sampler: Position-Aware Calibration of Decoding Bias in Masked Diffusion Models](https://arxiv.org/abs/2508.13021v2)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.13021v2)
+[![Star](https://img.shields.io/github/stars/NEUIR/PC-Sampler.svg?style=social&label=Star)](https://github.com/NEUIR/PC-Sampler)
+
+[14 Aug 2025] [DLLMQuant: Quantizing Diffusion-based Large Language Models](https://arxiv.org/abs/2508.14090v2)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.14090v2)
 
 
 [8 Aug 2025] [Diffusion LLMs Can Do Faster-Than-AR Inference via Discrete Diffusion Forcing](https://www.arxiv.org/abs/2508.09192)<br>
@@ -553,6 +600,10 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [1 Aug 2025] [Beyond Fixed: Variable-Length Denoising for Diffusion Large Language Models](https://arxiv.org/abs/2508.00819)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.00819)
 [![Star](https://img.shields.io/github/stars/Li-Jinsong/DAEDAL.svg?style=social&label=Star)](https://github.com/Li-Jinsong/DAEDAL)
+
+[24 Jul 2025] [Wide-In, Narrow-Out: Revokable Decoding for Efficient and Effective DLLMs](https://arxiv.org/abs/2507.18578)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.18578)
+[![Star](https://img.shields.io/github/stars/Feng-Hong/WINO-DLLM.svg?style=social&label=Star)](https://github.com/Feng-Hong/WINO-DLLM)
 
 [11 Jul 2025] [Inference-Time Scaling of Diffusion Language Models with Particle Gibbs Sampling](https://arxiv.org/abs/2507.08390v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.08390v1) 
@@ -659,8 +710,14 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Applications
+[14 Aug 2025] [Improving Text Style Transfer using Masked Diffusion Language Models with Inference-time Scaling](https://arxiv.org/abs/2508.10995v2)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.10995v2)
+
 [2 Aug 2025] [TreeDiff: AST-Guided Code Generation with Diffusion LLMs](https://arxiv.org/abs/2508.01473v2)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.01473v2)
+
+[25 Jul 2025] [Arg-LLaDA: Argument Summarization via Large Language Diffusion Models and Sufficiency-Aware Refinement](https://arxiv.org/abs/2507.19081v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2507.19081v1)
 
 [26 Jun 2025] [DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation](https://arxiv.org/abs/2506.20639)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.20639)
@@ -869,6 +926,9 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.03514)
 
 ## Resources
+[pengzhangzhi/Open-dLLM](https://github.com/pengzhangzhi/Open-dLLM)
+[![Star](https://img.shields.io/github/stars/pengzhangzhi/Open-dLLM.svg?style=social&label=Star)](https://github.com/pengzhangzhi/Open-dLLM)
+
 [bansky-cl/diffusion-nlp-paper-arxiv](https://github.com/bansky-cl/diffusion-nlp-paper-arxiv) 
  [![Star](https://img.shields.io/github/stars/bansky-cl/diffusion-nlp-paper-arxiv?style=social)](https://github.com/bansky-cl/diffusion-nlp-paper-arxiv)
 
