@@ -109,6 +109,13 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Discrete DLMs
+[5 Oct 2025] [What Makes Diffusion Language Models Super Data Learners?](https://arxiv.org/abs/2510.04071v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.04071v1)
+[![Star](https://img.shields.io/github/stars/zitian-gao/data-efficiency.svg?style=social&label=Star)](https://github.com/zitian-gao/data-efficiency)
+
+[5 Oct 2025] [Beyond Next-Token Prediction: A Performance Characterization of Diffusion versus Autoregressive Language Models](https://arxiv.org/abs/2510.04146v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.04146v1)
+
 [4 Oct 2025] [Rainbow Padding: Mitigating Early Termination in Instruction-Tuned Diffusion LLMs](https://arxiv.org/abs/2510.03680)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.03680)
 [![Star](https://img.shields.io/github/stars/quasar529/rainbow-padding.svg?style=social&label=Star)](https://github.com/quasar529/rainbow-padding)
@@ -123,6 +130,9 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [30 Sep 2025] [dParallel: Learnable Parallel Decoding for dLLMs](https://arxiv.org/abs/2509.26488)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.26488)
 [![Star](https://img.shields.io/github/stars/czg1225/dParallel.svg?style=social&label=Star)](https://github.com/czg1225/dParallel)
+
+[29 Sep 2025] [Why mask diffusion does not work](https://arxiv.org/abs/2510.03289v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.03289v1)
 
 [29 Sep 2025] [DiffuGuard: How Intrinsic Safety is Lost and Found in Diffusion Large Language Models](https://arxiv.org/abs/2509.24296v1)
 <br>
@@ -384,6 +394,10 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Continuous DLMs
+[6 Oct 2025] [LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning](https://arxiv.org/abs/2510.04573v2)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.04573v2)
+
+
 [3 Oct 2025] [Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner](https://www.arxiv.org/abs/2510.03206)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2510.03206)
 
@@ -556,6 +570,9 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Training Strategies
+[5 Oct 2025] [Principled and Tractable RL for Reasoning with Diffusion Language Models](https://arxiv.org/abs/2510.04019v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.04019v1)
+
 [2 Oct 2025] [Step-Aware Policy Optimization for Reasoning in Diffusion Large Language Models](https://arxiv.org/abs/2510.01544)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.01544)
 
@@ -641,6 +658,18 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Inference Optimization
+[8 Oct 2025] [Accelerating Diffusion LLM Inference via Local Determinism Propagation](https://arxiv.org/abs/2510.07081v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.07081v1)
+
+[7 Oct 2025] [CreditDecoding: Accelerating Parallel Decoding in Diffusion Large Language Models with Trace Credits](https://arxiv.org/abs/2510.06133v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.06133v1)
+
+[6 Oct 2025] [Finish First, Perfect Later: Test-Time Token-Level Cross-Validation for Diffusion Large Language Models](https://arxiv.org/abs/2510.05090v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.05090v1)
+
+[5 Oct 2025] [Self Speculative Decoding for Diffusion Large Language Models](https://arxiv.org/abs/2510.04147v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.04147v1)
+
 [30 Sep 2025] [Fast-dLLM v2: Efficient Block-Diffusion LLM](https://arxiv.org/abs/2509.26328v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.26328v1)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://nvlabs.github.io/Fast-dLLM/v2)
@@ -661,6 +690,10 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [28 Sep 2025] [Don't Settle Too Early: Self-Reflective Remasking for Diffusion Language Models](https://arxiv.org/abs/2509.23653v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.23653v1)
 [![Star](https://img.shields.io/github/stars/maple-research-lab/RemeDi.svg?style=social&label=Star)](https://github.com/maple-research-lab/RemeDi)
+
+
+[28 Sep 2025] [DiffuSpec: Unlocking Diffusion Language Models for Speculative Decoding](https://arxiv.org/abs/2510.02358v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.02358v1)
 
 
 [27 Sep 2025] [d2Cache: Accelerating Diffusion-based LLMs via Dual Adaptive Caching](https://arxiv.org/abs/2509.23094v1)<br>
