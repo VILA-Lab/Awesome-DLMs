@@ -109,6 +109,21 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Discrete DLMs
+[4 Oct 2025] [Rainbow Padding: Mitigating Early Termination in Instruction-Tuned Diffusion LLMs](https://arxiv.org/abs/2510.03680)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.03680)
+[![Star](https://img.shields.io/github/stars/quasar529/rainbow-padding.svg?style=social&label=Star)](https://github.com/quasar529/rainbow-padding)
+
+[3 Oct 2025] [DMark: Order-Agnostic Watermarking for Diffusion Large Language Models](https://www.arxiv.org/abs/2510.02902)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2510.02902)
+
+[1 Oct 2025] [Continuously Augmented Discrete Diffusion model for Categorical Generative Modeling](https://arxiv.org/abs/2510.01329)
+<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.01329)
+
+[30 Sep 2025] [dParallel: Learnable Parallel Decoding for dLLMs](https://arxiv.org/abs/2509.26488)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.26488)
+[![Star](https://img.shields.io/github/stars/czg1225/dParallel.svg?style=social&label=Star)](https://github.com/czg1225/dParallel)
+
 [29 Sep 2025] [DiffuGuard: How Intrinsic Safety is Lost and Found in Diffusion Large Language Models](https://arxiv.org/abs/2509.24296v1)
 <br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.24296v1)
@@ -369,6 +384,8 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Continuous DLMs
+[3 Oct 2025] [Coevolutionary Continuous Discrete Diffusion: Make Your Diffusion Language Model a Latent Reasoner](https://www.arxiv.org/abs/2510.03206)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2510.03206)
 
 [26 Jun 2025] [Compressed and Smooth Latent Space for Text Diffusion Modeling](https://arxiv.org/abs/2506.21170)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.21170)
@@ -499,6 +516,10 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://synbol.github.io/Lumina-DiMOO/)
 [![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-DiMOO.svg?style=social&label=Star)](https://github.com/Alpha-VLLM/Lumina-DiMOO)
 
+[8 Sep 2025] [LLaDA-VLA: Vision Language Diffusion Action Models](https://arxiv.org/abs/2509.06932)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.06932)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://wenyuqing.github.io/llada-vla)
+
 [29 May 2025] [Muddit: Liberating Generation Beyond Text-to-Image with a Unified Discrete Diffusion Model](https://arxiv.org/abs/2505.23606)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2505.23606)
 [![Star](https://img.shields.io/github/stars/M-E-AGI-Lab/Muddit.svg?style=social&label=Star)](https://github.com/M-E-AGI-Lab/Muddit) 
@@ -535,6 +556,10 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Training Strategies
+[2 Oct 2025] [Step-Aware Policy Optimization for Reasoning in Diffusion Large Language Models](https://arxiv.org/abs/2510.01544)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.01544)
+
+
 [27 Sep 2025] [A2D: Any-Order, Any-Step Safety Alignment for Diffusion Language Models](https://arxiv.org/abs/2509.23286v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.23286v1)
 
