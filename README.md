@@ -658,6 +658,10 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Inference Optimization
+[13 Oct 2025] [Unlocking the Potential of Diffusion Language Models through Template Infilling](https://arxiv.org/abs/2510.13870)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.13870)
+
+
 [8 Oct 2025] [Accelerating Diffusion LLM Inference via Local Determinism Propagation](https://arxiv.org/abs/2510.07081v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.07081v1)
 
