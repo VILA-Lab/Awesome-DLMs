@@ -109,6 +109,44 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Discrete DLMs
+[21 Oct 2025] [How Efficient Are Diffusion Language Models? A Critical Examination of Efficiency Evaluation Practices](https://arxiv.org/abs/2510.18480v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.18480v1)
+
+[20 Oct 2025] [Soft-Masked Diffusion Language Models](https://arxiv.org/abs/2510.17206v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.17206v1)
+
+[17 Oct 2025] [Planner and Executor: Collaboration between Discrete Diffusion And Autoregressive Models in Reasoning](https://arxiv.org/abs/2510.15244v2)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.15244v2)
+
+[17 Oct 2025] [Attention Sinks in Diffusion Language Models](https://arxiv.org/abs/2510.15731v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.15731v1)
+
+
+[15 Oct 2025] [On the Reasoning Abilities of Masked Diffusion Language Models](https://arxiv.org/abs/2510.13117v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.13117v1)
+
+
+[12 Oct 2025] [UltraLLaDA: Scaling the Context Length to 128K for Diffusion Large Language Models](https://arxiv.org/abs/2510.10481v1)
+<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.10481v1)
+[![Star](https://img.shields.io/github/stars/Relaxed-System-Lab/UltraLLaDA.svg?style=social&label=Star)](https://github.com/Relaxed-System-Lab/UltraLLaDA)
+
+
+[10 Oct 2025] [Closing the Data-Efficiency Gap Between Autoregressive and Masked Diffusion LLMs](https://arxiv.org/abs/2510.09885v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.09885v1)
+
+[10 Oct 2025] [Beyond Surface Reasoning: Unveiling the True Long Chain-of-Thought Capacity of Diffusion Large Language Models](https://arxiv.org/abs/2510.09544v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.09544v1)
+
+
+[8 Oct 2025] [Next Semantic Scale Prediction via Hierarchical Diffusion Language Models](https://arxiv.org/abs/2510.08632v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08632v1)
+
+[7 Oct 2025] [SDAR: A Synergistic Diffusion-AutoRegression Paradigm for Scalable Sequence Generation](https://arxiv.org/abs/2510.06303)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.06303)
+[![Star](https://img.shields.io/github/stars/JetAstra/SDAR.svg?style=social&label=Star)](https://github.com/JetAstra/SDAR)
+
+
 [5 Oct 2025] [What Makes Diffusion Language Models Super Data Learners?](https://arxiv.org/abs/2510.04071v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.04071v1)
 [![Star](https://img.shields.io/github/stars/zitian-gao/data-efficiency.svg?style=social&label=Star)](https://github.com/zitian-gao/data-efficiency)
@@ -526,7 +564,13 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Multimodal DLMs
-[9 Sep 2025] [Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding](https://synbol.github.io/Lumina-DiMOO/)<br>
+[22 Oct 2025] [From Denoising to Refining: A Corrective Framework for Vision-Language Diffusion Model](https://arxiv.org/abs/2510.19871v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.19871v1)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://rediff-hku.github.io/)
+[![Star](https://img.shields.io/github/stars/jiyt17/ReDiff.svg?style=social&label=Star)](https://github.com/jiyt17/ReDiff)
+
+[9 Sep 2025] [Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding](https://arxiv.org/abs/2510.06308)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.06308)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://synbol.github.io/Lumina-DiMOO/)
 [![Star](https://img.shields.io/github/stars/Alpha-VLLM/Lumina-DiMOO.svg?style=social&label=Star)](https://github.com/Alpha-VLLM/Lumina-DiMOO)
 
@@ -570,6 +614,14 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Training Strategies
+[13 Oct 2025] [Boundary-Guided Policy Optimization for Memory-efficient RL of Diffusion Large Language Models](https://arxiv.org/abs/2510.11683v2)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.11683v2)
+[![Star](https://img.shields.io/github/stars/THU-KEG/BGPO.svg?style=social&label=Star)](https://github.com/THU-KEG/BGPO)
+
+[10 Oct 2025] [SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models](https://arxiv.org/abs/2510.09541v2)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.09541v2)
+[![Star](https://img.shields.io/github/stars/facebookresearch/SPG.svg?style=social&label=Star)](https://github.com/facebookresearch/SPG)
+
 [5 Oct 2025] [Principled and Tractable RL for Reasoning with Diffusion Language Models](https://arxiv.org/abs/2510.04019v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.04019v1)
 
@@ -658,8 +710,30 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Inference Optimization
+[20 Oct 2025] [Saber: An Efficient Sampling with Adaptive Acceleration and Backtracking Enhanced Remasking for Diffusion Language Model](https://arxiv.org/abs/2510.18165v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.18165v1)
+
+[16 Oct 2025] [Attention Is All You Need for KV Cache in Diffusion LLMs](https://arxiv.org/abs/2510.14973)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.14973)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://vila-lab.github.io/elastic-cache-webpage/)
+
+[16 Oct 2025] [Efficient Parallel Samplers for Recurrent-Depth Models and Their Connection to Diffusion Language Models](https://arxiv.org/abs/2510.14961v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.14961v1)
+
+[13 Oct 2025] [Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052v2)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.11052v2)
+
 [13 Oct 2025] [Unlocking the Potential of Diffusion Language Models through Template Infilling](https://arxiv.org/abs/2510.13870)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.13870)
+
+[10 Oct 2025] [Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference](https://arxiv.org/abs/2510.09309)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.09309)
+[![Star](https://img.shields.io/github/stars/jianuo-huang/MaskKV.svg?style=social&label=Star)](https://github.com/jianuo-huang/MaskKV)
+
+
+[9 Oct 2025] [dInfer: An Efficient Inference Framework for Diffusion Language Models](https://arxiv.org/abs/2510.08666v2)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.08666v2)
+[![Star](https://img.shields.io/github/stars/inclusionAI/dInfer.svg?style=social&label=Star)](https://github.com/inclusionAI/dInfer)
 
 
 [8 Oct 2025] [Accelerating Diffusion LLM Inference via Local Determinism Propagation](https://arxiv.org/abs/2510.07081v1)<br>
@@ -1091,6 +1165,9 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.03514)
 
 ## Resources
+[ZHZisZZ/dllm](https://github.com/ZHZisZZ/dllm)
+[![Star](https://img.shields.io/github/stars/ZHZisZZ/dllm.svg?style=social&label=Star)](https://github.com/ZHZisZZ/dllm)
+
 [pengzhangzhi/Open-dLLM](https://github.com/pengzhangzhi/Open-dLLM)
 [![Star](https://img.shields.io/github/stars/pengzhangzhi/Open-dLLM.svg?style=social&label=Star)](https://github.com/pengzhangzhi/Open-dLLM)
 
