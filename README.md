@@ -569,6 +569,11 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://rediff-hku.github.io/)
 [![Star](https://img.shields.io/github/stars/jiyt17/ReDiff.svg?style=social&label=Star)](https://github.com/jiyt17/ReDiff)
 
+[23 Sep 2025] [Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2510.06308)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.19244)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://homepage.jackli.org/projects/lavida_o/index.html)
+[![Star](https://img.shields.io/github/stars/adobe-research/LaVida-O.svg?style=social&label=Star)](https://github.com/adobe-research/LaVida-O)
+
 [9 Sep 2025] [Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal Generation and Understanding](https://arxiv.org/abs/2510.06308)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.06308)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://synbol.github.io/Lumina-DiMOO/)
