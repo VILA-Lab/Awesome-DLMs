@@ -21,6 +21,7 @@ This figure highlights key milestones in the development of DLMs, categorized in
 - [🖼️ Multimodal DLMs](#multimodal-dlms)
 - [🎯 Training Strategies](#training-strategies)
 - [🚀 Inference Optimization](#inference-optimization)
+- [🔨 Training Frameworks](#training-frameworks)
 - [💡 Applications](#applications)
 - [🔗 Resources](#resources)
 
@@ -54,6 +55,16 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://nvlabs.github.io/Fast-dLLM/)
 [![Star](https://img.shields.io/github/stars/NVlabs/Fast-dLLM.svg?style=social&label=Star)](https://github.com/NVlabs/Fast-dLLM)
 
+[Diffusion Language Models are Super Data Learners](https://arxiv.org/abs/2511.03276)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.03276)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/JinjieNi/dlms-are-super-data-learners)
+[![Star](https://img.shields.io/github/stars/JinjieNi/dlms-are-super-data-learners.svg?style=social&label=Star)](https://github.com/JinjieNi/dlms-are-super-data-learners)
+
+[Training Optimal Large Diffusion Language Models](https://arxiv.org/abs/2510.03280)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.03280)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/JinjieNi/Quokka)
+[![Star](https://img.shields.io/github/stars/JinjieNi/MegaDLMs.svg?style=social&label=Star)](https://github.com/JinjieNi/MegaDLMs)
+
 
 
 ## Surveys
@@ -81,6 +92,11 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 ## Diffusion Foundation
 
+[03 Oct 2025] [Training Optimal Large Diffusion Language Models](https://arxiv.org/abs/2510.03280)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.03280)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/JinjieNi/Quokka)
+[![Star](https://img.shields.io/github/stars/JinjieNi/MegaDLMs.svg?style=social&label=Star)](https://github.com/JinjieNi/MegaDLMs)
+
 [7 Sep 2022] [Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow](https://arxiv.org/abs/2209.03003)   (ICLR 2023)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.03003)
 [![Star](https://img.shields.io/github/stars/gnobitab/RectifiedFlow.svg?style=social&label=Star)](https://github.com/gnobitab/RectifiedFlow)
@@ -107,8 +123,14 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![Star](https://img.shields.io/github/stars/Sohl-Dickstein/Diffusion-Probabilistic-Models.svg?style=social&label=Star)](https://github.com/Sohl-Dickstein/Diffusion-Probabilistic-Models)
 
 
-
 ## Discrete DLMs
+
+[03 Oct 2025] [OpenMoE 2: Sparse Diffusion Language Models](https://jinjieni.notion.site/OpenMoE-2-Sparse-Diffusion-Language-Models-277d8f03a8668065a4ecd23f23bd6aac?source=copy_link)  
+[![blog](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://jinjieni.notion.site/OpenMoE-2-Sparse-Diffusion-Language-Models-277d8f03a8668065a4ecd23f23bd6aac?source=copy_link)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/JinjieNi/OpenMoE2)
+[![Star](https://img.shields.io/github/stars/JinjieNi/MegaDLMs.svg?style=social&label=Star)](https://github.com/JinjieNi/MegaDLMs)
+
+
 [21 Oct 2025] [How Efficient Are Diffusion Language Models? A Critical Examination of Efficiency Evaluation Practices](https://arxiv.org/abs/2510.18480v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.18480v1)
 
@@ -619,6 +641,12 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 
 ## Training Strategies
+
+[03 Oct 2025] [Training Optimal Large Diffusion Language Models](https://arxiv.org/abs/2510.03280)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.03280)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/JinjieNi/Quokka)
+[![Star](https://img.shields.io/github/stars/JinjieNi/MegaDLMs.svg?style=social&label=Star)](https://github.com/JinjieNi/MegaDLMs)
+
 [13 Oct 2025] [Boundary-Guided Policy Optimization for Memory-efficient RL of Diffusion Large Language Models](https://arxiv.org/abs/2510.11683v2)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.11683v2)
 [![Star](https://img.shields.io/github/stars/THU-KEG/BGPO.svg?style=social&label=Star)](https://github.com/THU-KEG/BGPO)
@@ -935,6 +963,11 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 
 [18 May 2023] [Diffusion Language Models Generation Can Be Halted Early](https://arxiv.org/abs/2305.10818)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2305.10818)
+
+
+## Training Frameworks
+[02 Nov 2025] [MegaDLMs: Training Diffusion Language Models at Any Scale](https://github.com/JinjieNi/MegaDLMs)  
+[![Star](https://img.shields.io/github/stars/JinjieNi/MegaDLMs.svg?style=social&label=Star)](https://github.com/JinjieNi/MegaDLMs)
 
 
 
