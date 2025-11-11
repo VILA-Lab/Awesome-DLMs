@@ -60,11 +60,6 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/JinjieNi/dlms-are-super-data-learners)
 [![Star](https://img.shields.io/github/stars/JinjieNi/dlms-are-super-data-learners.svg?style=social&label=Star)](https://github.com/JinjieNi/dlms-are-super-data-learners)
 
-Quokka: [Training Optimal Large Diffusion Language Models](https://arxiv.org/abs/2510.03280)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.03280)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/JinjieNi/Quokka)
-[![Star](https://img.shields.io/github/stars/JinjieNi/MegaDLMs.svg?style=social&label=Star)](https://github.com/JinjieNi/MegaDLMs)
-
 
 
 ## Surveys
@@ -91,11 +86,6 @@ Quokka: [Training Optimal Large Diffusion Language Models](https://arxiv.org/abs
 [![Star](https://img.shields.io/github/stars/RUCAIBox/Awesome-Text-Diffusion-Models.svg?style=social&label=Star)](https://github.com/RUCAIBox/Awesome-Text-Diffusion-Models)
 
 ## Diffusion Foundation
-
-[03 Oct 2025] [Training Optimal Large Diffusion Language Models](https://arxiv.org/abs/2510.03280)  
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.03280)
-[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/JinjieNi/Quokka)
-[![Star](https://img.shields.io/github/stars/JinjieNi/MegaDLMs.svg?style=social&label=Star)](https://github.com/JinjieNi/MegaDLMs)
 
 [7 Sep 2022] [Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow](https://arxiv.org/abs/2209.03003)   (ICLR 2023)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2209.03003)
@@ -125,7 +115,12 @@ Quokka: [Training Optimal Large Diffusion Language Models](https://arxiv.org/abs
 
 ## Discrete DLMs
 
-[03 Oct 2025] [OpenMoE 2: Sparse Diffusion Language Models](https://jinjieni.notion.site/OpenMoE-2-Sparse-Diffusion-Language-Models-277d8f03a8668065a4ecd23f23bd6aac?source=copy_link)  
+[05 Nov 2025] [Training Optimal Large Diffusion Language Models](https://arxiv.org/abs/2510.03280)  
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.03280)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/JinjieNi/Quokka)
+[![Star](https://img.shields.io/github/stars/JinjieNi/MegaDLMs.svg?style=social&label=Star)](https://github.com/JinjieNi/MegaDLMs)
+
+[02 Nov 2025] [OpenMoE 2: Sparse Diffusion Language Models](https://jinjieni.notion.site/OpenMoE-2-Sparse-Diffusion-Language-Models-277d8f03a8668065a4ecd23f23bd6aac?source=copy_link)  
 [![blog](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://jinjieni.notion.site/OpenMoE-2-Sparse-Diffusion-Language-Models-277d8f03a8668065a4ecd23f23bd6aac?source=copy_link)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/JinjieNi/OpenMoE2)
 [![Star](https://img.shields.io/github/stars/JinjieNi/MegaDLMs.svg?style=social&label=Star)](https://github.com/JinjieNi/MegaDLMs)
