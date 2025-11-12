@@ -839,6 +839,9 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [14 Aug 2025] [DLLMQuant: Quantizing Diffusion-based Large Language Models](https://arxiv.org/abs/2508.14090v2)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.14090v2)
 
+[13 Aug 2025] [Constrained Decoding of Diffusion LLMs with Context-Free Grammars](https://arxiv.org/abs/2508.10111)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.10111)
+[![Star](https://img.shields.io/github/stars/eth-sri/constrained-diffusion.svg?style=social&label=Star)](https://github.com/eth-sri/constrained-diffusion)
 
 [8 Aug 2025] [Diffusion LLMs Can Do Faster-Than-AR Inference via Discrete Diffusion Forcing](https://www.arxiv.org/abs/2508.09192)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.09192) 
