@@ -114,6 +114,9 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Discrete DLMs
+[12 Nov 2025] [TiDAR: Think in Diffusion, Talk in Autoregression](https://arxiv.org/abs/2511.08923v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.08923v1)
+
 
 [05 Nov 2025] [Training Optimal Large Diffusion Language Models](https://arxiv.org/abs/2510.03280)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.03280)
@@ -124,6 +127,22 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [![blog](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://jinjieni.notion.site/OpenMoE-2-Sparse-Diffusion-Language-Models-277d8f03a8668065a4ecd23f23bd6aac?source=copy_link)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://github.com/JinjieNi/OpenMoE2)
 [![Star](https://img.shields.io/github/stars/JinjieNi/MegaDLMs.svg?style=social&label=Star)](https://github.com/JinjieNi/MegaDLMs)
+
+[1 Nov 2025] [SpecDiff-2: Scaling Diffusion Drafter Alignment For Faster Speculative Decoding](https://arxiv.org/abs/2511.00606v2)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.00606v2)
+
+[31 Oct 2025] [Diffuse Thinking: Exploring Diffusion Language Models as Efficient Thought Proposers for Reasoning](https://arxiv.org/abs/2510.27469v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.27469v1)
+
+[30 Oct 2025] [Don't Let It Fade: Preserving Edits in Diffusion Language Models via Token Timestep Allocation](https://arxiv.org/abs/2510.26200v1)
+<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.26200v1)
+
+
+[27 Oct 2025] [Variational Masked Diffusion Models](https://arxiv.org/abs/2510.23606v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.23606v1)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://riccizz.github.io/VMD/)
+[![Star](https://img.shields.io/github/stars/riccizz/VMD.svg?style=social&label=Star)](https://github.com/riccizz/VMD)
 
 
 [21 Oct 2025] [How Efficient Are Diffusion Language Models? A Critical Examination of Efficiency Evaluation Practices](https://arxiv.org/abs/2510.18480v1)<br>
@@ -449,6 +468,11 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Continuous DLMs
+[26 Oct 2025] [CANDI: Hybrid Discrete-Continuous Diffusion Models](https://arxiv.org/abs/2510.22510)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.22510)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://patrickpynadath1.github.io/candi-lander/)
+[![Star](https://img.shields.io/github/stars/patrickpynadath1/candi-diffusion.svg?style=social&label=Star)](https://github.com/patrickpynadath1/candi-diffusion)
+
 [6 Oct 2025] [LaDiR: Latent Diffusion Enhances LLMs for Text Reasoning](https://arxiv.org/abs/2510.04573v2)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.04573v2)
 
@@ -636,6 +660,8 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Training Strategies
+[24 Oct 2025] [MRO: Enhancing Reasoning in Diffusion Language Models via Multi-Reward Optimization](https://arxiv.org/abs/2510.21473v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.21473v1)
 
 [03 Oct 2025] [Training Optimal Large Diffusion Language Models](https://arxiv.org/abs/2510.03280)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.03280)
@@ -738,6 +764,14 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Inference Optimization
+[28 Oct 2025] [Diffusion LLM with Native Variable Generation Lengths: Let [EOS] Lead the Way](https://arxiv.org/abs/2510.24605v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.24605v1)
+[![Star](https://img.shields.io/github/stars/maomaocun/dLLM-Var.svg?style=social&label=Star)](https://github.com/maomaocun/dLLM-Var)
+
+[24 Oct 2025] [Parallel Sampling from Masked Diffusion Models via Conditional Independence Testing](https://arxiv.org/abs/2510.21961v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.21961v1)
+
+
 [20 Oct 2025] [Saber: An Efficient Sampling with Adaptive Acceleration and Backtracking Enhanced Remasking for Diffusion Language Model](https://arxiv.org/abs/2510.18165v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.18165v1)
 
@@ -971,6 +1005,8 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Applications
+[09 Nov 2025] [LLaDA-Rec: Discrete Diffusion for Parallel Semantic ID Generation in Generative Recommendation](https://arxiv.org/abs/2511.06254v1)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.06254v1)
 
 [1 Oct 2025] [Syntax-Guided Diffusion Language Models with User-Integrated Personalization](https://arxiv.org/abs/2510.01028v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.01028v1)
