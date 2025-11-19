@@ -660,6 +660,10 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Training Strategies
+[26 Oct 2025] [Aligning Diffusion Language Models via Unpaired Preference Optimization](https://arxiv.org/abs/2510.23658)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.23658)
+[![Star](https://img.shields.io/github/stars/vaibhavjindal/elbo-kto.svg?style=social&label=Star)](https://github.com/vaibhavjindal/elbo-kto)
+
 [24 Oct 2025] [MRO: Enhancing Reasoning in Diffusion Language Models via Multi-Reward Optimization](https://arxiv.org/abs/2510.21473v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.21473v1)
 
