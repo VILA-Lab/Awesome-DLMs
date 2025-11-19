@@ -605,10 +605,25 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Multimodal DLMs
+[12 Nov 2025] [MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation](https://arxiv.org/abs/2511.09611)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.09611)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://tyfeld.github.io/mmadaparellel.github.io/)
+[![Star](https://img.shields.io/github/stars/tyfeld/MMaDA-Parallel.svg?style=social&label=Star)](https://github.com/tyfeld/MMaDA-Parallel)
+
+
+[3 Nov 2025] [Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete Denoising Diffusion Process](https://arxiv.org/abs/2511.01718)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.01718)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://irpn-eai.github.io/UD-VLA.github.io/)
+[![Star](https://img.shields.io/github/stars/OpenHelix-Team/Unified-Diffusion-VLA.svg?style=social&label=Star)](https://github.com/OpenHelix-Team/Unified-Diffusion-VLA)
+
+
 [22 Oct 2025] [From Denoising to Refining: A Corrective Framework for Vision-Language Diffusion Model](https://arxiv.org/abs/2510.19871v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.19871v1)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://rediff-hku.github.io/)
 [![Star](https://img.shields.io/github/stars/jiyt17/ReDiff.svg?style=social&label=Star)](https://github.com/jiyt17/ReDiff)
+
+[30 Sep 2025] [dVLA: Diffusion Vision-Language-Action Model with Multimodal Chain-of-Thought](https://arxiv.org/abs/2509.25681)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.25681)
 
 [23 Sep 2025] [Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal Understanding and Generation](https://arxiv.org/abs/2510.06308)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.19244)
@@ -811,6 +826,11 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [6 Oct 2025] [Finish First, Perfect Later: Test-Time Token-Level Cross-Validation for Diffusion Large Language Models](https://arxiv.org/abs/2510.05090v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.05090v1)
 
+[6 Oct 2025] [Test-Time Scaling in Diffusion LLMs via Hidden Semi-Autoregressive Experts](https://arxiv.org/abs/2510.05040)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.05040)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://junos-ai-org.github.io/Test-Time-Scaling/)
+[![Star](https://img.shields.io/github/stars/junos-ai-org/Test-Time-Scaling.svg?style=social&label=Star)](https://github.com/junos-ai-org/Test-Time-Scaling)
+
 [5 Oct 2025] [Self Speculative Decoding for Diffusion Large Language Models](https://arxiv.org/abs/2510.04147v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.04147v1)
 
@@ -1003,6 +1023,9 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Training Frameworks
+[19 Nov 2025] [DiRL: An Efficient Training Framework for Diffusion Language Models](https://github.com/OpenMOSS/DiRL)<br>
+[![Star](https://img.shields.io/github/stars/OpenMOSS/DiRL.svg?style=social&label=Star)](https://github.com/OpenMOSS/DiRL)
+
 [02 Nov 2025] [MegaDLMs: Training Diffusion Language Models at Any Scale](https://github.com/JinjieNi/MegaDLMs)  
 [![Star](https://img.shields.io/github/stars/JinjieNi/MegaDLMs.svg?style=social&label=Star)](https://github.com/JinjieNi/MegaDLMs)
 
