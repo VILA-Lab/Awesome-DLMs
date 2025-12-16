@@ -9,7 +9,7 @@ One of the most starred, comprehensive and up-to-date collections of Diffusion L
 
 This figure highlights key milestones in the development of DLMs, categorized into three groups: continuous DLMs, discrete DLMs, and recent multimodal DLMs.  We observe that while early research predominantly focused on continuous DLMs, discrete DLMs have gained increasing popularity in more recent years. 
 
-![Timeline of Diffusion Language Models](timeline2.jpg)
+![Timeline of Diffusion Language Models](timeline3.png)
 
 ## Table of Contents
 - [🎮 Playground](#playground)
@@ -833,6 +833,11 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 [5 Oct 2025] [Self Speculative Decoding for Diffusion Large Language Models](https://arxiv.org/abs/2510.04147v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.04147v1)
+
+
+[30 Sep 2025] [Free Draft-and-Verification: Toward Lossless Parallel Decoding for Diffusion Large Language Models](https://arxiv.org/abs/2510.00294)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.00294)
+[![Star](https://img.shields.io/github/stars/cychomatica/FreeDave.svg?style=social&label=Star)](https://github.com/cychomatica/FreeDave)
 
 [30 Sep 2025] [Fast-dLLM v2: Efficient Block-Diffusion LLM](https://arxiv.org/abs/2509.26328v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2509.26328v1)
