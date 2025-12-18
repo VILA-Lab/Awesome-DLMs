@@ -605,6 +605,10 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Multimodal DLMs
+[17 Dec 2025] [DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models](https://arxiv.org/abs/2512.15713)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.15713)
+[![Star](https://img.shields.io/github/stars/hustvl/DiffusionVL.svg?style=social&label=Star)](https://github.com/hustvl/DiffusionVL)
+
 [12 Nov 2025] [MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation](https://arxiv.org/abs/2511.09611)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.09611)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://tyfeld.github.io/mmadaparellel.github.io/)
