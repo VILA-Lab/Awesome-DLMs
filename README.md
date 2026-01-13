@@ -787,6 +787,10 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Inference Optimization
+[23 Dec 2025] [Fail Fast, Win Big: Rethinking the Drafting Strategy in Speculative Decoding via Diffusion LLMs](https://arxiv.org/abs/2512.20573)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.20573)
+[![Star](https://img.shields.io/github/stars/ruipeterpan/failfast.svg?style=social&label=Star)](https://github.com/ruipeterpan/failfast)
+
 [28 Oct 2025] [Diffusion LLM with Native Variable Generation Lengths: Let [EOS] Lead the Way](https://arxiv.org/abs/2510.24605v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.24605v1)
 [![Star](https://img.shields.io/github/stars/maomaocun/dLLM-Var.svg?style=social&label=Star)](https://github.com/maomaocun/dLLM-Var)
