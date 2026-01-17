@@ -114,6 +114,10 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Discrete DLMs
+[15 Dec 2025] [ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding](https://arxiv.org/abs/2512.13586)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2512.13586)
+[![Star](https://img.shields.io/github/stars/ML-GSAI/ReFusion.svg?style=social&label=Star)](https://github.com/ML-GSAI/ReFusion)
+
 [12 Nov 2025] [TiDAR: Think in Diffusion, Talk in Autoregression](https://arxiv.org/abs/2511.08923v1)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.08923v1)
 
