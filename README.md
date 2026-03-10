@@ -599,8 +599,14 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Continuous DLMs
+
 [3 Mar 2026] [CoDAR: Continuous Diffusion Language Models are More Powerful Than You Think](https://arxiv.org/abs/2603.02547)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.02547)
+
+[18 Feb 2026] [One-step Language Modeling via Continuous Denoising](https://arxiv.org/abs/2602.16813)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.16813)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://one-step-lm.github.io)
+[![Star](https://img.shields.io/github/stars/david3684/flm.svg?style=social&label=Star)](https://github.com/david3684/flm)
 
 [26 Oct 2025] [CANDI: Hybrid Discrete-Continuous Diffusion Models](https://arxiv.org/abs/2510.22510)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.22510)
