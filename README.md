@@ -119,6 +119,9 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Discrete DLMs
+[3 Mar 2026] (DiSE) [Efficient Self-Evaluation for Diffusion Language Models via Sequence Regeneration](https://arxiv.org/abs/2603.02760) (ACL 2026)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.02760)
+
 [2 Mar 2026] [Characterizing Memorization in Diffusion Language Models: Generalized Extraction and Sampling Effects](https://arxiv.org/abs/2603.02333)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.02333)
 
