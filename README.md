@@ -973,9 +973,6 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.04893)
 [![Star](https://img.shields.io/github/stars/sean-lamont/odd.svg?style=social&label=Star)](https://github.com/sean-lamont/odd)
 
-[3 Mar 2026] (DiSE) [Efficient Self-Evaluation for Diffusion Language Models via Sequence Regeneration](https://arxiv.org/abs/2603.02760) (ACL 2026)<br>
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.02760)
-
 [27 Feb 2026] [Divide and Conquer: Accelerating Diffusion-Based Large Language Models via Adaptive Parallel Decoding](https://arxiv.org/abs/2602.23792)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.23792)
 
