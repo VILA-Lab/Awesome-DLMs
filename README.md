@@ -119,6 +119,9 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Discrete DLMs
+[3 Mar 2026] (DiSE) [Efficient Self-Evaluation for Diffusion Language Models via Sequence Regeneration](https://arxiv.org/abs/2603.02760) (ACL 2026)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.02760)
+
 [2 Mar 2026] [Characterizing Memorization in Diffusion Language Models: Generalized Extraction and Sampling Effects](https://arxiv.org/abs/2603.02333)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.02333)
 
@@ -215,7 +218,7 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [16 Jan 2026] [Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models](https://arxiv.org/abs/2601.11342)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.11342)
 
-[12 Jan 2026] [Beyond Hard Masks: Progressive Token Evolution for Diffusion Language Models](https://arxiv.org/abs/2601.07351)<br>
+[12 Jan 2026] (EvoTokenDLM) [Beyond Hard Masks: Progressive Token Evolution for Diffusion Language Models](https://arxiv.org/abs/2601.07351) (ACL 2026)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.07351)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://aim-uofa.github.io/EvoTokenDLM/)
 [![Star](https://img.shields.io/github/stars/aim-uofa/EvoTokenDLM.svg?style=social&label=Star)](https://github.com/aim-uofa/EvoTokenDLM)
@@ -969,9 +972,6 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [5 Mar 2026] [Free Lunch for Pass@$k$? Low Cost Diverse Sampling for Diffusion Language Models](https://arxiv.org/abs/2603.04893)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.04893)
 [![Star](https://img.shields.io/github/stars/sean-lamont/odd.svg?style=social&label=Star)](https://github.com/sean-lamont/odd)
-
-[3 Mar 2026] [Efficient Self-Evaluation for Diffusion Language Models via Sequence Regeneration](https://arxiv.org/abs/2603.02760)<br>
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.02760)
 
 [27 Feb 2026] [Divide and Conquer: Accelerating Diffusion-Based Large Language Models via Adaptive Parallel Decoding](https://arxiv.org/abs/2602.23792)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.23792)
