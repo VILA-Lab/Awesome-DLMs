@@ -38,6 +38,8 @@ This figure highlights key milestones in the development of DLMs, categorized in
 
 - [Dream](https://huggingface.co/spaces/multimodalart/Dream) [![deploy](https://img.shields.io/badge/Hugging%20Face-Demo-yellow)](https://huggingface.co/spaces/multimodalart/Dream)
 
+- [W1-4B-dLLM](https://vibe.whaletech.ai/) [![Static Badge](https://img.shields.io/badge/📰-Demo-green)](https://vibe.whaletech.ai/) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-yellow)](https://huggingface.co/WhaletechAI/W1-4B-dLLM-Base)
+
 ## Must-Read
 D3PM: [Structured Denoising Diffusion Models in Discrete State-Spaces](https://arxiv.org/abs/2107.03006)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2107.03006)  
@@ -1653,6 +1655,5 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
   year={2025}
 }
 ```
-
 
 
