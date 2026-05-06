@@ -49,6 +49,11 @@ LLaDA: [Large Language Diffusion Models](https://arxiv.org/abs/2502.09992)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://ml-gsai.github.io/LLaDA-demo/)
 [![Star](https://img.shields.io/github/stars/ML-GSAI/LLaDA.svg?style=social&label=Star)](https://github.com/ML-GSAI/LLaDA)
 
+W1-4B-dLLM: [WhaletechAI/W1-4B-dLLM-Base](https://huggingface.co/WhaletechAI/W1-4B-dLLM-Base)<br>
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-yellow)](https://huggingface.co/WhaletechAI/W1-4B-dLLM-Base)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://whaletech.ai/)
+[![Static Badge](https://img.shields.io/badge/📰-Demo-green)](https://vibe.whaletech.ai/)
+
 [Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://arxiv.org/abs/2503.09573) (ICLR 2025)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.09573) 
 [![Star](https://img.shields.io/github/stars/kuleshov-group/bd3lms.svg?style=social&label=Star)](https://github.com/kuleshov-group/bd3lms)
@@ -1655,5 +1660,4 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
   year={2025}
 }
 ```
-
 
