@@ -1040,6 +1040,11 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.01842)
 [![Star](https://img.shields.io/github/stars/viiika/Prism.svg?style=social&label=Star)](https://github.com/viiika/Prism)
 
+[30 Jan 2026] [FOCUS: DLLMs Know How to Tame Their Compute Bound](https://arxiv.org/abs/2601.23278) (ICML 2026)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.23278)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://focus-inference.github.io/)
+[![Star](https://img.shields.io/github/stars/sands-lab/FOCUS.svg?style=social&label=Star)](https://github.com/sands-lab/FOCUS)
+
 [30 Jan 2026] [Time-Annealed Perturbation Sampling: Diverse Generation for Diffusion Language Models](https://arxiv.org/abs/2601.22629)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2601.22629)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://taps-dlm.github.io/)
