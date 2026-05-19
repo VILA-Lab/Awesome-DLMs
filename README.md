@@ -665,6 +665,10 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [12 May 2026] [BitLM: Unlocking Multi-Token Language Generation with Bitwise Continuous Diffusion](https://arxiv.org/abs/2605.11577)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.11577)
 
+[11 May 2026] [ELF: Embedded Language Flows](https://arxiv.org/abs/2605.10938)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.10938)
+[![Star](https://img.shields.io/github/stars/lillian039/ELF.svg?style=social&label=Star)](https://github.com/lillian039/ELF)
+
 [8 May 2026] [How to Train Your Latent Diffusion Language Model Jointly With the Latent Space](https://arxiv.org/abs/2605.07933)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.07933)
 
