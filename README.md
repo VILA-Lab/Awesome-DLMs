@@ -145,6 +145,9 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [![Website](https://img.shields.io/badge/Website-9cf)](https://introspective-diffusion.github.io/)
 [![Star](https://img.shields.io/github/stars/Introspective-Diffusion/I-DLM.svg?style=social&label=Star)](https://github.com/Introspective-Diffusion/I-DLM)
 
+[4 Apr 2026] [Rethinking Token Prediction: Tree-Structured Diffusion Language Model](https://arxiv.org/abs/2604.03537)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.03537)
+
 [3 Apr 2026] [Generative Frontiers: Why Evaluation Matters for Diffusion Language Models](https://arxiv.org/abs/2604.02718)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.02718)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://patrickpynadath1.github.io/blog/eval_methodology/)
@@ -152,10 +155,6 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [2 Apr 2026] [Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models](https://arxiv.org/abs/2604.01622)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.01622)
 [![Star](https://img.shields.io/github/stars/zhangshuibai/EC-DLM.svg?style=social&label=Star)](https://github.com/zhangshuibai/EC-DLM)
-
-[4 Apr 2026] [Rethinking Token Prediction: Tree-Structured Diffusion Language Model](https://arxiv.org/abs/2604.03537)<br>
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.03537)
-
 
 
 [23 Mar 2026] [Autoregressive vs. Masked Diffusion Language Models: A Controlled Comparison](https://arxiv.org/abs/2603.22075)<br>
