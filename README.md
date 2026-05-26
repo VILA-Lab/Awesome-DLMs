@@ -22,6 +22,7 @@ This figure highlights key milestones in the development of DLMs, categorized in
 - [🎯 Training Strategies](#training-strategies)
 - [🚀 Inference Optimization](#inference-optimization)
 - [🔨 Training Frameworks](#training-frameworks)
+- [⚙️ Inference Frameworks](#inference-frameworks)  
 - [📊 Benchmarks](#benchmarks)
 - [💡 Applications](#applications)
 - [🔗 Resources](#resources)
@@ -1579,6 +1580,10 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 [02 Nov 2025] [MegaDLMs: Training Diffusion Language Models at Any Scale](https://github.com/JinjieNi/MegaDLMs)  
 [![Star](https://img.shields.io/github/stars/JinjieNi/MegaDLMs.svg?style=social&label=Star)](https://github.com/JinjieNi/MegaDLMs)
+
+## Inference Frameworks
+[24 May 2026] [dlmserve: OpenAI-Compatible Serving Engine for Diffusion Language Models](https://github.com/iOptimizeThings/dlmserve)<br>
+[![Star](https://img.shields.io/github/stars/iOptimizeThings/dlmserve.svg?style=social&label=Star)](https://github.com/iOptimizeThings/dlmserve)
 
 ## Benchmarks
 [6 Oct 2025] [ParallelBench: Understanding the Trade-offs of Parallel Decoding in Diffusion LLMs](https://arxiv.org/abs/2510.04767)<br>
