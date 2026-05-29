@@ -1238,6 +1238,11 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.05992)
 [![Star](https://img.shields.io/github/stars/lizhuo-luo/DSB.svg?style=social&label=Star)](https://github.com/lizhuo-luo/DSB)
 
+[4 Feb 2026] [CORE: Context-Robust Remasking for Diffusion Language Models](https://arxiv.org/abs/2602.04096) (ICML 2026)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.04096)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://ucf-crcv.github.io/core/)
+[![Star](https://img.shields.io/github/stars/UCF-CRCV/core.svg?style=social&label=Star)](https://github.com/UCF-CRCV/core)
+
 [4 Feb 2026] [EntRGi: Entropy Aware Reward Guidance for Diffusion Language Models](https://arxiv.org/abs/2602.05000)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2602.05000)
 
