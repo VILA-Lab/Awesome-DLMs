@@ -69,6 +69,10 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Surveys
+[12 May 2026] [A Comparative Survey of Inference Acceleration for DLLMs against AR-LLMs: No Free Lunch](https://www.preprints.org/manuscript/202605.0776)  
+[![Paper](https://img.shields.io/badge/Paper-Preprints.org-blue)](https://www.preprints.org/manuscript/202605.0776)
+[![Star](https://img.shields.io/github/stars/haoyun-jiang/DLLM-AccelEval.svg?style=social&label=Star)](https://github.com/haoyun-jiang/DLLM-AccelEval)
+
 [12 Aug 2025] [A Survey on Parallel Text Generation: From Parallel Decoding to Diffusion Language Models](https://arxiv.org/abs/2508.08712v2)  
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.08712v2)
 [![Star](https://img.shields.io/github/stars/zhanglingzhe0820/Awesome-Parallel-Text-Generation.svg?style=social&label=Star)](https://github.com/zhanglingzhe0820/Awesome-Parallel-Text-Generation)
