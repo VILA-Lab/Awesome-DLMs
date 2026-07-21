@@ -1356,8 +1356,10 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [13 Oct 2025] [Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by Refining Belief States](https://arxiv.org/abs/2510.11052v2)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.11052v2)
 
-[13 Oct 2025] [Unlocking the Potential of Diffusion Language Models through Template Infilling](https://arxiv.org/abs/2510.13870)<br>
+[13 Oct 2025] [Unlocking the Potential of Diffusion Language Models through Template Infilling](https://arxiv.org/abs/2510.13870) (ACL 2026)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.13870)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://junhoo.me/template-infilling)
+[![Star](https://img.shields.io/github/stars/JunHoo-Lee/Template-Infilling.svg?style=social&label=Star)](https://github.com/JunHoo-Lee/Template-Infilling)
 
 [10 Oct 2025] [Mask Tokens as Prophet: Fine-Grained Cache Eviction for Efficient dLLM Inference](https://arxiv.org/abs/2510.09309)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.09309)
@@ -1900,6 +1902,5 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
   year={2025}
 }
 ```
-
 
 
