@@ -931,6 +931,10 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Training Strategies
+[21 Jun 2026] [d-OPSD: On-Policy Self-Distillation for Diffusion Language Models](https://arxiv.org/abs/2606.18195)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.18195)
+[![Star](https://img.shields.io/github/stars/xingzhejun/d-opsd-code.svg?style=social&label=Star)](https://github.com/xingzhejun/d-opsd-code)
+
 [13 May 2026] [Beyond Mode-Seeking RL: Trajectory-Balance Post-Training for Diffusion Language Models](https://arxiv.org/abs/2605.13935)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.13935)
 
@@ -1900,6 +1904,5 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
   year={2025}
 }
 ```
-
 
 
