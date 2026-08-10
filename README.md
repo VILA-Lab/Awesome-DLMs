@@ -1888,6 +1888,8 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [Mercury](https://www.inceptionlabs.ai/introducing-mercury) 
 [![Arxiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.17298)
 
+[DiffusionGemma Explained (ML@Berkeley)](https://mlberkeley.substack.com/p/the-annotated-diffusiongemma)
+
 
 [![Star History Chart](https://api.star-history.com/svg?repos=VILA-Lab/Awesome-DLMs&type=Date)](https://www.star-history.com/#VILA-Lab/Awesome-DLMs&Date)
 
