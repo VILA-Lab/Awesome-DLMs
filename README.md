@@ -1599,6 +1599,10 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [![Star](https://img.shields.io/github/stars/iOptimizeThings/dlmserve.svg?style=social&label=Star)](https://github.com/iOptimizeThings/dlmserve)
 
 ## Benchmarks
+[30 Jul 2026] [Where Quality Breaks in Compressed Short-Text Generation: Staged Bottleneck Localization](https://arxiv.org/abs/2607.24176) (FRUCT 2026)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.24176)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://aogavrilov.com/publications/where-quality-breaks/)
+
 [6 Oct 2025] [ParallelBench: Understanding the Trade-offs of Parallel Decoding in Diffusion LLMs](https://arxiv.org/abs/2510.04767)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2510.04767)
 [![Website](https://img.shields.io/badge/Website-9cf)](https://parallelbench.github.io/)
