@@ -1895,7 +1895,7 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [DiffusionGemma Explained (ML@Berkeley)](https://mlberkeley.substack.com/p/the-annotated-diffusiongemma)
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=VILA-Lab/Awesome-DLMs&type=Date)](https://www.star-history.com/#VILA-Lab/Awesome-DLMs&Date)
+[![Star History Chart](https://star-history.dera.page/svg?repos=VILA-Lab/Awesome-DLMs&type=Date)](https://star-history.dera.page/#VILA-Lab/Awesome-DLMs&Date)
 
 ## Citation
 ```
