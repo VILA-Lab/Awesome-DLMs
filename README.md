@@ -994,6 +994,11 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [10 Apr 2026] [Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM](https://arxiv.org/abs/2604.06832)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.06832)
 
+[9 Mar 2026] [Dynin-Omni: Omnimodal Unified Large Diffusion Language Model](https://arxiv.org/abs/2604.00007)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.00007)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://dynin.ai/omni/)
+[![Star](https://img.shields.io/github/stars/AIDASLab/Dynin-Omni.svg?style=social&label=Star)](https://github.com/AIDASLab/Dynin-Omni)
+
 [25 Jan 2026] [VidLaDA: Bidirectional Diffusion Large Language Models for Efficient Video Understanding](https://www.arxiv.org/abs/2601.17868)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.arxiv.org/abs/2601.17868)
 [![Star](https://img.shields.io/github/stars/ziHoHe/VidLaDA.svg?style=social&label=Star)](https://github.com/ziHoHe/VidLaDA)
