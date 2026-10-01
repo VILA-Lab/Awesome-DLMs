@@ -991,6 +991,9 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [4 Jun 2026] [Adapting Diffusion Language Models for Lossless Pixel-Level Image Transmission](https://arxiv.org/abs/2606.06273)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.06273)
 
+[28 May 2026] [Masked Diffusion Vision-Language Models for Temporal Action Localization](https://arxiv.org/abs/2605.29858) (NeurIPS 2026)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.29858)
+
 [10 Apr 2026] [Fast-dVLM: Efficient Block-Diffusion VLM via Direct Conversion from Autoregressive VLM](https://arxiv.org/abs/2604.06832)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2604.06832)
 
