@@ -1083,6 +1083,7 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 
 ## Training Strategies
+
 [14 Aug 2026] [CForce: Boosting Parallel Decoding for dLLMs via Consistency Forcing](https://arxiv.org/abs/2608.13925)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.13925)
 [![Star](https://img.shields.io/github/stars/inclusionAI/dFactory.svg?style=social&label=Star)](https://github.com/inclusionAI/dFactory)
@@ -1131,6 +1132,10 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 [3 Jun 2026] [Read the Trace, Steer the Path: Trajectory-Aware Reinforcement Learning for Diffusion Language Models](https://arxiv.org/abs/2606.04396)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.04396)
+
+[29 May 2026] [dMoE: dLLMs with Learnable Block Experts](https://arxiv.org/abs/2605.30876)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.30876)
+[![Star](https://img.shields.io/github/stars/fscdc/dMoE.svg?style=social&label=Star)](https://github.com/fscdc/dMoE)
 
 [13 May 2026] [Beyond Mode-Seeking RL: Trajectory-Balance Post-Training for Diffusion Language Models](https://arxiv.org/abs/2605.13935)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.13935)
