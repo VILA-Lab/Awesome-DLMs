@@ -1459,6 +1459,10 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.06366)
 [![Star](https://img.shields.io/github/stars/Conzel/super-outlier-dlm.svg?style=social&label=Star)](https://github.com/Conzel/super-outlier-dlm)
 
+[7 May 2026] [Polestar: Drift-Aware Cache Calibration and Token Commitment for Efficient Inference of Diffusion LLMs](https://arxiv.org/abs/2607.14107) (NeurIPS 2026)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2607.14107)
+[![Star](https://img.shields.io/github/stars/gt-synergy-lab/Polestar.svg?style=social&label=Star)](https://github.com/gt-synergy-lab/Polestar)
+
 [2 May 2026] [Focus on the Core: Empowering Diffusion Large Language Models by Self-Contrast](https://arxiv.org/abs/2605.01373)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2605.01373)
 
