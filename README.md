@@ -1783,9 +1783,10 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.14148v2)
 [![Star](https://img.shields.io/github/stars/Crys-Chen/DPad.svg?style=social&label=Star)](https://github.com/Crys-Chen/DPad)
 
-[18 Aug 2025] [PC-Sampler: Position-Aware Calibration of Decoding Bias in Masked Diffusion Models](https://arxiv.org/abs/2508.13021v2)<br>
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.13021v2)
-[![Star](https://img.shields.io/github/stars/NEUIR/PC-Sampler.svg?style=social&label=Star)](https://github.com/NEUIR/PC-Sampler)
+[18 Aug 2025] (UNCODE, formerly PC-Sampler) [Empirical Analysis of Decoding Biases in Masked Diffusion Models](https://arxiv.org/abs/2508.13021) (ACL 2026 Oral)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.13021)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://passionate11.github.io/Uncode-project-page/)
+[![Star](https://img.shields.io/github/stars/NEUIR/Uncode.svg?style=social&label=Star)](https://github.com/NEUIR/Uncode)
 
 [14 Aug 2025] [DLLMQuant: Quantizing Diffusion-based Large Language Models](https://arxiv.org/abs/2508.14090v2)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2508.14090v2)
