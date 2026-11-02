@@ -964,6 +964,11 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 ## Multimodal DLMs
 
+[27 Oct 2026] [Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs](https://arxiv.org/abs/2610.36671)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2610.36671)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://hyeon9698.github.io/LOWN/)
+[![Star](https://img.shields.io/github/stars/hyeon9698/LOWN.svg?style=social&label=Star)](https://github.com/hyeon9698/LOWN)
+
 [7 Aug 2026] [Does More Retrieved Evidence Help Visual Retrieval-Augmented Generation with Diffusion Language Models?](https://arxiv.org/abs/2608.07006)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.07006)
 [![Star](https://img.shields.io/github/stars/wjkuser/ECF.svg?style=social&label=Star)](https://github.com/wjkuser/ECF)
