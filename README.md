@@ -133,6 +133,11 @@ Super Data Learners: [Diffusion Language Models are Super Data Learners](https:/
 
 ## Discrete DLMs
 
+[24 Nov 2026] (CSRR) [On the Importance of Hidden-State Refinement in Masked Diffusion Language Models](https://arxiv.org/abs/2611.32416)<br>
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2611.32416)
+[![Website](https://img.shields.io/badge/Website-9cf)](https://zhongzero.github.io/Recurrent-DLLM/)
+[![Star](https://img.shields.io/github/stars/zhongzero/Recurrent-DLLM.svg?style=social&label=Star)](https://github.com/zhongzero/Recurrent-DLLM)
+
 [11 Aug 2026] [Simplex Relaxation for Discrete Diffusion](https://arxiv.org/abs/2608.10615)<br>
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2608.10615)
 
